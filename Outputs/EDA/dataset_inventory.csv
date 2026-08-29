@@ -1,0 +1,27 @@
+Dataset,Rows,Columns,Numeric Columns,Categorical Columns,Datetime Columns,Missing Values,Duplicate Rows
+Areas of Highest Vulnerability_ 2026_04_21,11,21,0,21,0,0,0
+Drinking Water Quality Compliance - SANS 241 _2006 - National [From_ 2022-07-01 To_ 2026-06-30],4,2,1,1,0,0,0
+Households Served with Water_ 2026_04_21,11,17,2,15,0,0,0
+Institutional Compliance_ 2026_04_21,11,5,2,3,0,0,0
+Microbiological _ Acute Health_ 2026_04_21,11,8,2,6,0,0,0
+NIWIS_GroundwaterStatus_16-Jul-2026 ,1946,8,1,7,0,0,0
+NIWIS_RWT_16-Jul-2026 ,9,5,3,2,0,0,0
+NIWIS_WasteWaterQuality_16-Jul-2026 ,143,5,0,5,0,0,0
+NIWIS_Water Supply Reliability - population_16-Jul-2026 ,144,13,0,13,0,0,0
+Operational_ 2026_04_21,11,8,2,6,0,0,0
+People Served with Water_ 2026_04_21,11,17,2,15,0,0,0
+Piped Water Households _ 2026_04_21,10,12,2,10,0,0,0
+Potable Systems_ 2026_04_21,61,11,2,9,0,0,0
+Protests Identified by Municipal IQ_ 2026_04_21,11,16,13,3,0,0,0
+Residential Tariffs_ 2026_04_21,11,7,0,7,0,0,0
+Source of Water Households _ 2026_04_21,10,13,1,12,0,0,0
+Surface Water Storage ( 2020 -2026),375,9,8,1,0,0,0
+Surface Water Storage (2014-2020),374,9,8,1,0,0,0
+TimeSeries Population_ 2026_04_21,11,35,0,35,0,0,0
+Timeseries Households_ 2026_04_21,11,35,0,35,0,0,0
+Total Households_ 2026_04_21,11,8,1,7,0,0,0
+Total Population_ 2026_04_21,11,8,1,7,0,0,0
+Verified - River Flow ( National ),7,2,1,1,0,0,0
+Vulnerability Score Per leg_ 2026_04_21,11,9,6,3,0,0,0
+Water demand growth_ 2026_04_21,11,10,3,7,0,0,0
+Weather,21301,14,7,7,0,0,0

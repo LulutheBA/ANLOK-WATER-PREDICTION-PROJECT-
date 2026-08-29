@@ -1,0 +1,361 @@
+Dataset,Feature 1,Feature 2,Correlation,Absolute Correlation
+Protests Identified by Municipal IQ_ 2026_04_21,violent,total_protests,0.9997313425381789,0.9997313425381789
+Protests Identified by Municipal IQ_ 2026_04_21,total_protests,violent,0.9997313425381789,0.9997313425381789
+Weather,latitude,elevation,-0.9994676647822472,0.9994676647822472
+Weather,elevation,latitude,-0.9994676647822472,0.9994676647822472
+Protests Identified by Municipal IQ_ 2026_04_21,total_protests,housing,0.998666023401374,0.998666023401374
+Protests Identified by Municipal IQ_ 2026_04_21,housing,total_protests,0.998666023401374,0.998666023401374
+Protests Identified by Municipal IQ_ 2026_04_21,electricity,violent,0.9985902794410134,0.9985902794410134
+Protests Identified by Municipal IQ_ 2026_04_21,violent,electricity,0.9985902794410134,0.9985902794410134
+Protests Identified by Municipal IQ_ 2026_04_21,violent,housing,0.9984753910528823,0.9984753910528823
+Protests Identified by Municipal IQ_ 2026_04_21,housing,violent,0.9984753910528823,0.9984753910528823
+Protests Identified by Municipal IQ_ 2026_04_21,electricity,total_protests,0.9979373567882153,0.9979373567882153
+Protests Identified by Municipal IQ_ 2026_04_21,total_protests,electricity,0.9979373567882153,0.9979373567882153
+Protests Identified by Municipal IQ_ 2026_04_21,informal,electricity,0.9977988535690665,0.9977988535690665
+Protests Identified by Municipal IQ_ 2026_04_21,electricity,informal,0.9977988535690665,0.9977988535690665
+Protests Identified by Municipal IQ_ 2026_04_21,electricity,housing,0.9972116221702855,0.9972116221702855
+Protests Identified by Municipal IQ_ 2026_04_21,housing,electricity,0.9972116221702855,0.9972116221702855
+Weather,elevation,longitude,0.9967586427630453,0.9967586427630453
+Weather,longitude,elevation,0.9967586427630453,0.9967586427630453
+Protests Identified by Municipal IQ_ 2026_04_21,water,councillor,0.9963474411418807,0.9963474411418807
+Protests Identified by Municipal IQ_ 2026_04_21,councillor,water,0.9963474411418807,0.9963474411418807
+Protests Identified by Municipal IQ_ 2026_04_21,total_protests,sanitation,0.996298984203814,0.996298984203814
+Protests Identified by Municipal IQ_ 2026_04_21,sanitation,total_protests,0.996298984203814,0.996298984203814
+Protests Identified by Municipal IQ_ 2026_04_21,violent,criminality,0.9956649423132058,0.9956649423132058
+Protests Identified by Municipal IQ_ 2026_04_21,criminality,violent,0.9956649423132058,0.9956649423132058
+Protests Identified by Municipal IQ_ 2026_04_21,sanitation,councillor,0.9954778024893004,0.9954778024893004
+Protests Identified by Municipal IQ_ 2026_04_21,councillor,sanitation,0.9954778024893004,0.9954778024893004
+Protests Identified by Municipal IQ_ 2026_04_21,water,sanitation,0.9949273233628588,0.9949273233628588
+Protests Identified by Municipal IQ_ 2026_04_21,sanitation,water,0.9949273233628588,0.9949273233628588
+Protests Identified by Municipal IQ_ 2026_04_21,violent,informal,0.9948213550502081,0.9948213550502081
+Protests Identified by Municipal IQ_ 2026_04_21,informal,violent,0.9948213550502081,0.9948213550502081
+Protests Identified by Municipal IQ_ 2026_04_21,criminality,total_protests,0.9947537939193402,0.9947537939193402
+Protests Identified by Municipal IQ_ 2026_04_21,total_protests,criminality,0.9947537939193402,0.9947537939193402
+Protests Identified by Municipal IQ_ 2026_04_21,sanitation,housing,0.9947168298805927,0.9947168298805927
+Protests Identified by Municipal IQ_ 2026_04_21,housing,sanitation,0.9947168298805927,0.9947168298805927
+Protests Identified by Municipal IQ_ 2026_04_21,violent,sanitation,0.9945415404748582,0.9945415404748582
+Protests Identified by Municipal IQ_ 2026_04_21,sanitation,violent,0.9945415404748582,0.9945415404748582
+Weather,latitude,longitude,-0.9936033550550151,0.9936033550550151
+Weather,longitude,latitude,-0.9936033550550151,0.9936033550550151
+Protests Identified by Municipal IQ_ 2026_04_21,criminality,electricity,0.9935379763335354,0.9935379763335354
+Protests Identified by Municipal IQ_ 2026_04_21,electricity,criminality,0.9935379763335354,0.9935379763335354
+Protests Identified by Municipal IQ_ 2026_04_21,total_protests,informal,0.9933885384938972,0.9933885384938972
+Protests Identified by Municipal IQ_ 2026_04_21,informal,total_protests,0.9933885384938972,0.9933885384938972
+Protests Identified by Municipal IQ_ 2026_04_21,informal,housing,0.9929683008973696,0.9929683008973696
+Protests Identified by Municipal IQ_ 2026_04_21,housing,informal,0.9929683008973696,0.9929683008973696
+Protests Identified by Municipal IQ_ 2026_04_21,housing,criminality,0.9922361914248918,0.9922361914248918
+Protests Identified by Municipal IQ_ 2026_04_21,criminality,housing,0.9922361914248918,0.9922361914248918
+Protests Identified by Municipal IQ_ 2026_04_21,sanitation,electricity,0.991006136400911,0.991006136400911
+Protests Identified by Municipal IQ_ 2026_04_21,electricity,sanitation,0.991006136400911,0.991006136400911
+Protests Identified by Municipal IQ_ 2026_04_21,criminality,sanitation,0.9895384239036242,0.9895384239036242
+Protests Identified by Municipal IQ_ 2026_04_21,sanitation,criminality,0.9895384239036242,0.9895384239036242
+Protests Identified by Municipal IQ_ 2026_04_21,informal,criminality,0.9883919407682381,0.9883919407682381
+Protests Identified by Municipal IQ_ 2026_04_21,criminality,informal,0.9883919407682381,0.9883919407682381
+Protests Identified by Municipal IQ_ 2026_04_21,councillor,total_protests,0.9857771668520819,0.9857771668520819
+Protests Identified by Municipal IQ_ 2026_04_21,total_protests,councillor,0.9857771668520819,0.9857771668520819
+Protests Identified by Municipal IQ_ 2026_04_21,total_protests,water,0.985061473687799,0.985061473687799
+Protests Identified by Municipal IQ_ 2026_04_21,water,total_protests,0.985061473687799,0.985061473687799
+Protests Identified by Municipal IQ_ 2026_04_21,housing,water,0.9846602970117346,0.9846602970117346
+Protests Identified by Municipal IQ_ 2026_04_21,water,housing,0.9846602970117346,0.9846602970117346
+Protests Identified by Municipal IQ_ 2026_04_21,water,roads,0.9845909592868995,0.9845909592868995
+Protests Identified by Municipal IQ_ 2026_04_21,roads,water,0.9845909592868995,0.9845909592868995
+Protests Identified by Municipal IQ_ 2026_04_21,violent,councillor,0.9829192199533203,0.9829192199533203
+Protests Identified by Municipal IQ_ 2026_04_21,councillor,violent,0.9829192199533203,0.9829192199533203
+Protests Identified by Municipal IQ_ 2026_04_21,councillor,housing,0.9817602506401644,0.9817602506401644
+Protests Identified by Municipal IQ_ 2026_04_21,housing,councillor,0.9817602506401644,0.9817602506401644
+Protests Identified by Municipal IQ_ 2026_04_21,water,violent,0.9816296479643538,0.9816296479643538
+Protests Identified by Municipal IQ_ 2026_04_21,violent,water,0.9816296479643538,0.9816296479643538
+Protests Identified by Municipal IQ_ 2026_04_21,councillor,roads,0.9815995180736038,0.9815995180736038
+Protests Identified by Municipal IQ_ 2026_04_21,roads,councillor,0.9815995180736038,0.9815995180736038
+Protests Identified by Municipal IQ_ 2026_04_21,sanitation,informal,0.9815088234786571,0.9815088234786571
+Protests Identified by Municipal IQ_ 2026_04_21,informal,sanitation,0.9815088234786571,0.9815088234786571
+Protests Identified by Municipal IQ_ 2026_04_21,criminality,refuse_removal,0.9810001747156696,0.9810001747156696
+Protests Identified by Municipal IQ_ 2026_04_21,refuse_removal,criminality,0.9810001747156696,0.9810001747156696
+Protests Identified by Municipal IQ_ 2026_04_21,councillor,criminality,0.980470366676789,0.980470366676789
+Protests Identified by Municipal IQ_ 2026_04_21,criminality,councillor,0.980470366676789,0.980470366676789
+Protests Identified by Municipal IQ_ 2026_04_21,refuse_removal,electricity,0.980448878598568,0.980448878598568
+Protests Identified by Municipal IQ_ 2026_04_21,electricity,refuse_removal,0.980448878598568,0.980448878598568
+Protests Identified by Municipal IQ_ 2026_04_21,refuse_removal,violent,0.9784645852398524,0.9784645852398524
+Protests Identified by Municipal IQ_ 2026_04_21,violent,refuse_removal,0.9784645852398524,0.9784645852398524
+Protests Identified by Municipal IQ_ 2026_04_21,refuse_removal,informal,0.9776679464860643,0.9776679464860643
+Protests Identified by Municipal IQ_ 2026_04_21,informal,refuse_removal,0.9776679464860643,0.9776679464860643
+Protests Identified by Municipal IQ_ 2026_04_21,housing,refuse_removal,0.9776247307046624,0.9776247307046624
+Protests Identified by Municipal IQ_ 2026_04_21,refuse_removal,housing,0.9776247307046624,0.9776247307046624
+Protests Identified by Municipal IQ_ 2026_04_21,councillor,electricity,0.9757801984407425,0.9757801984407425
+Protests Identified by Municipal IQ_ 2026_04_21,electricity,councillor,0.9757801984407425,0.9757801984407425
+Protests Identified by Municipal IQ_ 2026_04_21,water,criminality,0.9749755319390359,0.9749755319390359
+Protests Identified by Municipal IQ_ 2026_04_21,criminality,water,0.9749755319390359,0.9749755319390359
+Protests Identified by Municipal IQ_ 2026_04_21,total_protests,refuse_removal,0.9746741228390869,0.9746741228390869
+Protests Identified by Municipal IQ_ 2026_04_21,refuse_removal,total_protests,0.9746741228390869,0.9746741228390869
+Protests Identified by Municipal IQ_ 2026_04_21,water,electricity,0.9744237613101486,0.9744237613101486
+Protests Identified by Municipal IQ_ 2026_04_21,electricity,water,0.9744237613101486,0.9744237613101486
+Protests Identified by Municipal IQ_ 2026_04_21,roads,sanitation,0.9698568309257477,0.9698568309257477
+Protests Identified by Municipal IQ_ 2026_04_21,sanitation,roads,0.9698568309257477,0.9698568309257477
+Protests Identified by Municipal IQ_ 2026_04_21,councillor,corruption,0.9665750812193968,0.9665750812193968
+Protests Identified by Municipal IQ_ 2026_04_21,corruption,councillor,0.9665750812193968,0.9665750812193968
+Protests Identified by Municipal IQ_ 2026_04_21,refuse_removal,sanitation,0.9648734678947364,0.9648734678947364
+Protests Identified by Municipal IQ_ 2026_04_21,sanitation,refuse_removal,0.9648734678947364,0.9648734678947364
+Protests Identified by Municipal IQ_ 2026_04_21,xenophobia,criminality,0.9647743478961592,0.9647743478961592
+Protests Identified by Municipal IQ_ 2026_04_21,criminality,xenophobia,0.9647743478961592,0.9647743478961592
+Protests Identified by Municipal IQ_ 2026_04_21,councillor,informal,0.9610804745152873,0.9610804745152873
+Protests Identified by Municipal IQ_ 2026_04_21,informal,councillor,0.9610804745152873,0.9610804745152873
+Protests Identified by Municipal IQ_ 2026_04_21,corruption,water,0.9610519797474896,0.9610519797474896
+Protests Identified by Municipal IQ_ 2026_04_21,water,corruption,0.9610519797474896,0.9610519797474896
+Protests Identified by Municipal IQ_ 2026_04_21,water,informal,0.9605797188852543,0.9605797188852543
+Protests Identified by Municipal IQ_ 2026_04_21,informal,water,0.9605797188852543,0.9605797188852543
+Surface Water Storage ( 2020 -2026),very_low,low,0.9604321026517647,0.9604321026517647
+Surface Water Storage ( 2020 -2026),low,very_low,0.9604321026517647,0.9604321026517647
+Protests Identified by Municipal IQ_ 2026_04_21,total_protests,roads,0.9581324221358358,0.9581324221358358
+Protests Identified by Municipal IQ_ 2026_04_21,roads,total_protests,0.9581324221358358,0.9581324221358358
+Protests Identified by Municipal IQ_ 2026_04_21,corruption,roads,0.9566511465547454,0.9566511465547454
+Protests Identified by Municipal IQ_ 2026_04_21,roads,corruption,0.9566511465547454,0.9566511465547454
+Protests Identified by Municipal IQ_ 2026_04_21,housing,roads,0.9562894645043994,0.9562894645043994
+Protests Identified by Municipal IQ_ 2026_04_21,roads,housing,0.9562894645043994,0.9562894645043994
+Protests Identified by Municipal IQ_ 2026_04_21,roads,violent,0.9544456998961127,0.9544456998961127
+Protests Identified by Municipal IQ_ 2026_04_21,violent,roads,0.9544456998961127,0.9544456998961127
+Protests Identified by Municipal IQ_ 2026_04_21,xenophobia,councillor,0.9528302075235521,0.9528302075235521
+Protests Identified by Municipal IQ_ 2026_04_21,councillor,xenophobia,0.9528302075235521,0.9528302075235521
+Protests Identified by Municipal IQ_ 2026_04_21,criminality,roads,0.9501761241818942,0.9501761241818942
+Protests Identified by Municipal IQ_ 2026_04_21,roads,criminality,0.9501761241818942,0.9501761241818942
+Protests Identified by Municipal IQ_ 2026_04_21,refuse_removal,councillor,0.9470967685344828,0.9470967685344828
+Protests Identified by Municipal IQ_ 2026_04_21,councillor,refuse_removal,0.9470967685344828,0.9470967685344828
+Protests Identified by Municipal IQ_ 2026_04_21,xenophobia,sanitation,0.946279321356857,0.946279321356857
+Protests Identified by Municipal IQ_ 2026_04_21,sanitation,xenophobia,0.946279321356857,0.946279321356857
+Protests Identified by Municipal IQ_ 2026_04_21,violent,xenophobia,0.9455742312408157,0.9455742312408157
+Protests Identified by Municipal IQ_ 2026_04_21,xenophobia,violent,0.9455742312408157,0.9455742312408157
+Protests Identified by Municipal IQ_ 2026_04_21,total_protests,xenophobia,0.9446545579850576,0.9446545579850576
+Protests Identified by Municipal IQ_ 2026_04_21,xenophobia,total_protests,0.9446545579850576,0.9446545579850576
+Protests Identified by Municipal IQ_ 2026_04_21,water,refuse_removal,0.9434649117426016,0.9434649117426016
+Protests Identified by Municipal IQ_ 2026_04_21,refuse_removal,water,0.9434649117426016,0.9434649117426016
+Protests Identified by Municipal IQ_ 2026_04_21,sanitation,corruption,0.943308887181221,0.943308887181221
+Protests Identified by Municipal IQ_ 2026_04_21,corruption,sanitation,0.943308887181221,0.943308887181221
+Protests Identified by Municipal IQ_ 2026_04_21,xenophobia,electricity,0.9408169884745788,0.9408169884745788
+Protests Identified by Municipal IQ_ 2026_04_21,electricity,xenophobia,0.9408169884745788,0.9408169884745788
+Protests Identified by Municipal IQ_ 2026_04_21,roads,electricity,0.9396890487614916,0.9396890487614916
+Protests Identified by Municipal IQ_ 2026_04_21,electricity,roads,0.9396890487614916,0.9396890487614916
+Protests Identified by Municipal IQ_ 2026_04_21,housing,xenophobia,0.9312537539977115,0.9312537539977115
+Protests Identified by Municipal IQ_ 2026_04_21,xenophobia,housing,0.9312537539977115,0.9312537539977115
+Protests Identified by Municipal IQ_ 2026_04_21,xenophobia,water,0.92892075683404,0.92892075683404
+Protests Identified by Municipal IQ_ 2026_04_21,water,xenophobia,0.92892075683404,0.92892075683404
+Protests Identified by Municipal IQ_ 2026_04_21,xenophobia,informal,0.9288028105214978,0.9288028105214978
+Protests Identified by Municipal IQ_ 2026_04_21,informal,xenophobia,0.9288028105214978,0.9288028105214978
+Protests Identified by Municipal IQ_ 2026_04_21,refuse_removal,xenophobia,0.9272826230342237,0.9272826230342237
+Protests Identified by Municipal IQ_ 2026_04_21,xenophobia,refuse_removal,0.9272826230342237,0.9272826230342237
+Protests Identified by Municipal IQ_ 2026_04_21,informal,roads,0.9219005207491827,0.9219005207491827
+Protests Identified by Municipal IQ_ 2026_04_21,roads,informal,0.9219005207491827,0.9219005207491827
+Protests Identified by Municipal IQ_ 2026_04_21,corruption,total_protests,0.9163440579270222,0.9163440579270222
+Protests Identified by Municipal IQ_ 2026_04_21,total_protests,corruption,0.9163440579270222,0.9163440579270222
+Protests Identified by Municipal IQ_ 2026_04_21,refuse_removal,roads,0.9116294824693979,0.9116294824693979
+Protests Identified by Municipal IQ_ 2026_04_21,roads,refuse_removal,0.9116294824693979,0.9116294824693979
+Surface Water Storage ( 2020 -2026),moderately_high,moderately_low,0.9108190477867042,0.9108190477867042
+Surface Water Storage ( 2020 -2026),moderately_low,moderately_high,0.9108190477867042,0.9108190477867042
+Protests Identified by Municipal IQ_ 2026_04_21,violent,corruption,0.9085870900139751,0.9085870900139751
+Protests Identified by Municipal IQ_ 2026_04_21,corruption,violent,0.9085870900139751,0.9085870900139751
+Protests Identified by Municipal IQ_ 2026_04_21,xenophobia,corruption,0.9084117262600586,0.9084117262600586
+Protests Identified by Municipal IQ_ 2026_04_21,corruption,xenophobia,0.9084117262600586,0.9084117262600586
+Protests Identified by Municipal IQ_ 2026_04_21,roads,xenophobia,0.9081978645641885,0.9081978645641885
+Protests Identified by Municipal IQ_ 2026_04_21,xenophobia,roads,0.9081978645641885,0.9081978645641885
+Protests Identified by Municipal IQ_ 2026_04_21,corruption,housing,0.9067771223542457,0.9067771223542457
+Protests Identified by Municipal IQ_ 2026_04_21,housing,corruption,0.9067771223542457,0.9067771223542457
+Protests Identified by Municipal IQ_ 2026_04_21,corruption,criminality,0.9043343301645568,0.9043343301645568
+Protests Identified by Municipal IQ_ 2026_04_21,criminality,corruption,0.9043343301645568,0.9043343301645568
+Vulnerability Score Per leg_ 2026_04_21,1__water_services_planning,6__water_conservation___water_demand_management__wc_wdm,0.9028966951135953,0.9028966951135953
+Vulnerability Score Per leg_ 2026_04_21,6__water_conservation___water_demand_management__wc_wdm,1__water_services_planning,0.9028966951135953,0.9028966951135953
+Water demand growth_ 2026_04_21,water_losses,non_revenue_water,0.8985628708778989,0.8985628708778989
+Water demand growth_ 2026_04_21,non_revenue_water,water_losses,0.8985628708778989,0.8985628708778989
+Surface Water Storage ( 2020 -2026),moderately_high,normal,0.8982281470673479,0.8982281470673479
+Surface Water Storage ( 2020 -2026),normal,moderately_high,0.8982281470673479,0.8982281470673479
+Protests Identified by Municipal IQ_ 2026_04_21,electricity,corruption,0.8945088880960075,0.8945088880960075
+Protests Identified by Municipal IQ_ 2026_04_21,corruption,electricity,0.8945088880960075,0.8945088880960075
+Protests Identified by Municipal IQ_ 2026_04_21,informal,corruption,0.8700021482672676,0.8700021482672676
+Protests Identified by Municipal IQ_ 2026_04_21,corruption,informal,0.8700021482672676,0.8700021482672676
+Weather,tmax,tavg,0.8655928330622243,0.8655928330622243
+Weather,tavg,tmax,0.8655928330622243,0.8655928330622243
+Surface Water Storage ( 2020 -2026),normal,moderately_low,0.8536371503108484,0.8536371503108484
+Surface Water Storage ( 2020 -2026),moderately_low,normal,0.8536371503108484,0.8536371503108484
+NIWIS_RWT_16-Jul-2026 ,irrigation_c_m3,forestry_c_m3,0.8437876465197602,0.8437876465197602
+NIWIS_RWT_16-Jul-2026 ,forestry_c_m3,irrigation_c_m3,0.8437876465197602,0.8437876465197602
+Protests Identified by Municipal IQ_ 2026_04_21,refuse_removal,corruption,0.8370599453398333,0.8370599453398333
+Protests Identified by Municipal IQ_ 2026_04_21,corruption,refuse_removal,0.8370599453398333,0.8370599453398333
+Surface Water Storage (2014-2020),moderately_high,normal,0.8192067433562261,0.8192067433562261
+Surface Water Storage (2014-2020),normal,moderately_high,0.8192067433562261,0.8192067433562261
+Weather,tmin,tavg,0.7948208374351914,0.7948208374351914
+Weather,tavg,tmin,0.7948208374351914,0.7948208374351914
+Surface Water Storage ( 2020 -2026),moderately_high,low,0.7860096554442721,0.7860096554442721
+Surface Water Storage ( 2020 -2026),low,moderately_high,0.7860096554442721,0.7860096554442721
+Vulnerability Score Per leg_ 2026_04_21,1__water_services_planning,7__drinking_water_safety___regulatory_compliance,0.7697363901875571,0.7697363901875571
+Vulnerability Score Per leg_ 2026_04_21,7__drinking_water_safety___regulatory_compliance,1__water_services_planning,0.7697363901875571,0.7697363901875571
+Surface Water Storage (2014-2020),normal,very_low,0.7637039853054391,0.7637039853054391
+Surface Water Storage (2014-2020),very_low,normal,0.7637039853054391,0.7637039853054391
+Surface Water Storage ( 2020 -2026),normal,low,0.7578693171910511,0.7578693171910511
+Surface Water Storage ( 2020 -2026),low,normal,0.7578693171910511,0.7578693171910511
+Surface Water Storage (2014-2020),very_low,moderately_high,0.7470784910799314,0.7470784910799314
+Surface Water Storage (2014-2020),moderately_high,very_low,0.7470784910799314,0.7470784910799314
+Surface Water Storage (2014-2020),normal,moderately_low,0.7398042365704511,0.7398042365704511
+Surface Water Storage (2014-2020),moderately_low,normal,0.7398042365704511,0.7398042365704511
+Surface Water Storage (2014-2020),low,normal,0.7394605822496467,0.7394605822496467
+Surface Water Storage (2014-2020),normal,low,0.7394605822496467,0.7394605822496467
+Surface Water Storage (2014-2020),low,moderately_high,0.7367436487216212,0.7367436487216212
+Surface Water Storage (2014-2020),moderately_high,low,0.7367436487216212,0.7367436487216212
+Vulnerability Score Per leg_ 2026_04_21,7__drinking_water_safety___regulatory_compliance,6__water_conservation___water_demand_management__wc_wdm,0.7292499551515393,0.7292499551515393
+Vulnerability Score Per leg_ 2026_04_21,6__water_conservation___water_demand_management__wc_wdm,7__drinking_water_safety___regulatory_compliance,0.7292499551515393,0.7292499551515393
+Surface Water Storage ( 2020 -2026),very_low,normal,0.7262243710108993,0.7262243710108993
+Surface Water Storage ( 2020 -2026),normal,very_low,0.7262243710108993,0.7262243710108993
+NIWIS_RWT_16-Jul-2026 ,domestic_and_industry_c_m3,irrigation_c_m3,0.723608899665759,0.723608899665759
+NIWIS_RWT_16-Jul-2026 ,irrigation_c_m3,domestic_and_industry_c_m3,0.723608899665759,0.723608899665759
+Surface Water Storage ( 2020 -2026),moderately_high,very_low,0.7106179296778466,0.7106179296778466
+Surface Water Storage ( 2020 -2026),very_low,moderately_high,0.7106179296778466,0.7106179296778466
+Surface Water Storage (2014-2020),low,very_low,0.7076256093296701,0.7076256093296701
+Surface Water Storage (2014-2020),very_low,low,0.7076256093296701,0.7076256093296701
+Vulnerability Score Per leg_ 2026_04_21,4__technical_staff_capacity__numbers,7__drinking_water_safety___regulatory_compliance,0.7001076246764616,0.7001076246764616
+Vulnerability Score Per leg_ 2026_04_21,7__drinking_water_safety___regulatory_compliance,4__technical_staff_capacity__numbers,0.7001076246764616,0.7001076246764616
+Vulnerability Score Per leg_ 2026_04_21,4__technical_staff_capacity__numbers,11__operation___maintenance__o_m__of_assets,0.6963885901420361,0.6963885901420361
+Vulnerability Score Per leg_ 2026_04_21,11__operation___maintenance__o_m__of_assets,4__technical_staff_capacity__numbers,0.6963885901420361,0.6963885901420361
+Weather,tmin,tmax,0.6807970915061671,0.6807970915061671
+Weather,tmax,tmin,0.6807970915061671,0.6807970915061671
+Surface Water Storage (2014-2020),moderately_high,moderately_low,0.67798572291067,0.67798572291067
+Surface Water Storage (2014-2020),moderately_low,moderately_high,0.67798572291067,0.67798572291067
+Surface Water Storage (2014-2020),low,moderately_low,0.6653944804471853,0.6653944804471853
+Surface Water Storage (2014-2020),moderately_low,low,0.6653944804471853,0.6653944804471853
+Vulnerability Score Per leg_ 2026_04_21,10__infrastructure_asset_management__iam,1__water_services_planning,0.6599046664434822,0.6599046664434822
+Vulnerability Score Per leg_ 2026_04_21,1__water_services_planning,10__infrastructure_asset_management__iam,0.6599046664434822,0.6599046664434822
+Surface Water Storage ( 2020 -2026),low,moderately_low,0.6384004994123074,0.6384004994123074
+Surface Water Storage ( 2020 -2026),moderately_low,low,0.6384004994123074,0.6384004994123074
+Surface Water Storage (2014-2020),high,very_low,-0.6179997035055129,0.6179997035055129
+Surface Water Storage (2014-2020),very_low,high,-0.6179997035055129,0.6179997035055129
+Vulnerability Score Per leg_ 2026_04_21,7__drinking_water_safety___regulatory_compliance,11__operation___maintenance__o_m__of_assets,0.5943459693165312,0.5943459693165312
+Vulnerability Score Per leg_ 2026_04_21,11__operation___maintenance__o_m__of_assets,7__drinking_water_safety___regulatory_compliance,0.5943459693165312,0.5943459693165312
+Vulnerability Score Per leg_ 2026_04_21,4__technical_staff_capacity__numbers,6__water_conservation___water_demand_management__wc_wdm,0.5827561271360414,0.5827561271360414
+Vulnerability Score Per leg_ 2026_04_21,6__water_conservation___water_demand_management__wc_wdm,4__technical_staff_capacity__numbers,0.5827561271360414,0.5827561271360414
+Surface Water Storage ( 2020 -2026),2025_2026,2024_2025,0.5489962080153105,0.5489962080153105
+Surface Water Storage ( 2020 -2026),2024_2025,2025_2026,0.5489962080153105,0.5489962080153105
+NIWIS_RWT_16-Jul-2026 ,forestry_c_m3,domestic_and_industry_c_m3,0.5470088006932649,0.5470088006932649
+NIWIS_RWT_16-Jul-2026 ,domestic_and_industry_c_m3,forestry_c_m3,0.5470088006932649,0.5470088006932649
+Vulnerability Score Per leg_ 2026_04_21,1__water_services_planning,4__technical_staff_capacity__numbers,0.5413261591934223,0.5413261591934223
+Vulnerability Score Per leg_ 2026_04_21,4__technical_staff_capacity__numbers,1__water_services_planning,0.5413261591934223,0.5413261591934223
+Vulnerability Score Per leg_ 2026_04_21,6__water_conservation___water_demand_management__wc_wdm,10__infrastructure_asset_management__iam,0.5363050190392619,0.5363050190392619
+Vulnerability Score Per leg_ 2026_04_21,10__infrastructure_asset_management__iam,6__water_conservation___water_demand_management__wc_wdm,0.5363050190392619,0.5363050190392619
+Surface Water Storage ( 2020 -2026),very_low,moderately_low,0.5244284354097009,0.5244284354097009
+Surface Water Storage ( 2020 -2026),moderately_low,very_low,0.5244284354097009,0.5244284354097009
+Vulnerability Score Per leg_ 2026_04_21,10__infrastructure_asset_management__iam,7__drinking_water_safety___regulatory_compliance,0.46337749246209314,0.46337749246209314
+Vulnerability Score Per leg_ 2026_04_21,7__drinking_water_safety___regulatory_compliance,10__infrastructure_asset_management__iam,0.46337749246209314,0.46337749246209314
+Vulnerability Score Per leg_ 2026_04_21,10__infrastructure_asset_management__iam,4__technical_staff_capacity__numbers,0.459162166412754,0.459162166412754
+Vulnerability Score Per leg_ 2026_04_21,4__technical_staff_capacity__numbers,10__infrastructure_asset_management__iam,0.459162166412754,0.459162166412754
+Potable Systems_ 2026_04_21,drinking_water_quality_percentage,latest_blue_drop_score,0.3808041081604829,0.3808041081604829
+Potable Systems_ 2026_04_21,latest_blue_drop_score,drinking_water_quality_percentage,0.3808041081604829,0.3808041081604829
+Surface Water Storage ( 2020 -2026),high,moderately_low,0.3794456856656937,0.3794456856656937
+Surface Water Storage ( 2020 -2026),moderately_low,high,0.3794456856656937,0.3794456856656937
+Surface Water Storage (2014-2020),moderately_low,very_low,0.3613291612070184,0.3613291612070184
+Surface Water Storage (2014-2020),very_low,moderately_low,0.3613291612070184,0.3613291612070184
+Vulnerability Score Per leg_ 2026_04_21,10__infrastructure_asset_management__iam,11__operation___maintenance__o_m__of_assets,0.35312249921331235,0.35312249921331235
+Vulnerability Score Per leg_ 2026_04_21,11__operation___maintenance__o_m__of_assets,10__infrastructure_asset_management__iam,0.35312249921331235,0.35312249921331235
+Surface Water Storage ( 2020 -2026),high,moderately_high,0.3329350710602414,0.3329350710602414
+Surface Water Storage ( 2020 -2026),moderately_high,high,0.3329350710602414,0.3329350710602414
+Water demand growth_ 2026_04_21,water_demand_growth,non_revenue_water,0.3257067967039059,0.3257067967039059
+Water demand growth_ 2026_04_21,non_revenue_water,water_demand_growth,0.3257067967039059,0.3257067967039059
+Institutional Compliance_ 2026_04_21,potable_water_compliance_percentage,effluent_water_compliance_percentage,0.3143815226332833,0.3143815226332833
+Institutional Compliance_ 2026_04_21,effluent_water_compliance_percentage,potable_water_compliance_percentage,0.3143815226332833,0.3143815226332833
+Surface Water Storage ( 2020 -2026),high,normal,0.3113659564895605,0.3113659564895605
+Surface Water Storage ( 2020 -2026),normal,high,0.3113659564895605,0.3113659564895605
+Weather,tmax,latitude,0.31122007021352827,0.31122007021352827
+Weather,latitude,tmax,0.31122007021352827,0.31122007021352827
+Weather,elevation,tmax,-0.30967658111815705,0.30967658111815705
+Weather,tmax,elevation,-0.30967658111815705,0.30967658111815705
+Vulnerability Score Per leg_ 2026_04_21,1__water_services_planning,11__operation___maintenance__o_m__of_assets,0.30766648273337643,0.30766648273337643
+Vulnerability Score Per leg_ 2026_04_21,11__operation___maintenance__o_m__of_assets,1__water_services_planning,0.30766648273337643,0.30766648273337643
+Weather,tmax,longitude,-0.3044602014649184,0.3044602014649184
+Weather,longitude,tmax,-0.3044602014649184,0.3044602014649184
+Surface Water Storage (2014-2020),low,high,-0.3023221423591353,0.3023221423591353
+Surface Water Storage (2014-2020),high,low,-0.3023221423591353,0.3023221423591353
+Vulnerability Score Per leg_ 2026_04_21,6__water_conservation___water_demand_management__wc_wdm,11__operation___maintenance__o_m__of_assets,0.27060646936750266,0.27060646936750266
+Vulnerability Score Per leg_ 2026_04_21,11__operation___maintenance__o_m__of_assets,6__water_conservation___water_demand_management__wc_wdm,0.27060646936750266,0.27060646936750266
+Operational_ 2026_04_21,compliance_percentage,analysis_failed,0.26585082012362954,0.26585082012362954
+Operational_ 2026_04_21,analysis_failed,compliance_percentage,0.26585082012362954,0.26585082012362954
+Water demand growth_ 2026_04_21,water_demand_growth,water_losses,0.2617229346258771,0.2617229346258771
+Water demand growth_ 2026_04_21,water_losses,water_demand_growth,0.2617229346258771,0.2617229346258771
+Surface Water Storage (2014-2020),normal,high,-0.24584108753617331,0.24584108753617331
+Surface Water Storage (2014-2020),high,normal,-0.24584108753617331,0.24584108753617331
+Microbiological _ Acute Health_ 2026_04_21,compliance_percentage,analysis_failed,0.2400260202830513,0.2400260202830513
+Microbiological _ Acute Health_ 2026_04_21,analysis_failed,compliance_percentage,0.2400260202830513,0.2400260202830513
+Surface Water Storage (2014-2020),2018_2019,2019_2020,0.22767958237388813,0.22767958237388813
+Surface Water Storage (2014-2020),2019_2020,2018_2019,0.22767958237388813,0.22767958237388813
+Weather,latitude,tavg,0.20165832270622844,0.20165832270622844
+Weather,tavg,latitude,0.20165832270622844,0.20165832270622844
+Weather,tavg,elevation,-0.20046831678545707,0.20046831678545707
+Weather,elevation,tavg,-0.20046831678545707,0.20046831678545707
+Weather,longitude,tavg,-0.19662093268338443,0.19662093268338443
+Weather,tavg,longitude,-0.19662093268338443,0.19662093268338443
+Surface Water Storage (2014-2020),moderately_high,high,-0.19291891061787325,0.19291891061787325
+Surface Water Storage (2014-2020),high,moderately_high,-0.19291891061787325,0.19291891061787325
+Surface Water Storage ( 2020 -2026),high,very_low,-0.14042825881273566,0.14042825881273566
+Surface Water Storage ( 2020 -2026),very_low,high,-0.14042825881273566,0.14042825881273566
+Weather,tmin,latitude,0.1317351059917033,0.1317351059917033
+Weather,latitude,tmin,0.1317351059917033,0.1317351059917033
+Weather,elevation,tmin,-0.1314480537971041,0.1314480537971041
+Weather,tmin,elevation,-0.1314480537971041,0.1314480537971041
+Weather,tmin,longitude,-0.1301415897545148,0.1301415897545148
+Weather,longitude,tmin,-0.1301415897545148,0.1301415897545148
+Weather,prcp,tmin,0.11283625267735332,0.11283625267735332
+Weather,tmin,prcp,0.11283625267735332,0.11283625267735332
+Surface Water Storage ( 2020 -2026),high,2025_2026,0.05240357692131841,0.05240357692131841
+Surface Water Storage ( 2020 -2026),2025_2026,high,0.05240357692131841,0.05240357692131841
+Surface Water Storage (2014-2020),very_low,2018_2019,0.04641190508838488,0.04641190508838488
+Surface Water Storage (2014-2020),2018_2019,very_low,0.04641190508838488,0.04641190508838488
+Surface Water Storage ( 2020 -2026),high,2024_2025,0.04482970529753758,0.04482970529753758
+Surface Water Storage ( 2020 -2026),2024_2025,high,0.04482970529753758,0.04482970529753758
+Surface Water Storage (2014-2020),moderately_high,2018_2019,0.0412708042508223,0.0412708042508223
+Surface Water Storage (2014-2020),2018_2019,moderately_high,0.0412708042508223,0.0412708042508223
+Weather,tavg,prcp,0.03794072666472152,0.03794072666472152
+Weather,prcp,tavg,0.03794072666472152,0.03794072666472152
+Surface Water Storage (2014-2020),high,2019_2020,-0.02868201968287547,0.02868201968287547
+Surface Water Storage (2014-2020),2019_2020,high,-0.02868201968287547,0.02868201968287547
+Surface Water Storage (2014-2020),2019_2020,moderately_high,0.024925661159666455,0.024925661159666455
+Surface Water Storage (2014-2020),moderately_high,2019_2020,0.024925661159666455,0.024925661159666455
+Surface Water Storage ( 2020 -2026),very_low,2024_2025,-0.021268542285358717,0.021268542285358717
+Surface Water Storage ( 2020 -2026),2024_2025,very_low,-0.021268542285358717,0.021268542285358717
+Surface Water Storage (2014-2020),2018_2019,normal,0.021157388712968826,0.021157388712968826
+Surface Water Storage (2014-2020),normal,2018_2019,0.021157388712968826,0.021157388712968826
+Surface Water Storage (2014-2020),high,2018_2019,-0.021084157729161588,0.021084157729161588
+Surface Water Storage (2014-2020),2018_2019,high,-0.021084157729161588,0.021084157729161588
+Surface Water Storage ( 2020 -2026),normal,2025_2026,-0.020989209683944215,0.020989209683944215
+Surface Water Storage ( 2020 -2026),2025_2026,normal,-0.020989209683944215,0.020989209683944215
+Surface Water Storage ( 2020 -2026),moderately_low,2024_2025,0.02059141545119611,0.02059141545119611
+Surface Water Storage ( 2020 -2026),2024_2025,moderately_low,0.02059141545119611,0.02059141545119611
+Surface Water Storage (2014-2020),2018_2019,moderately_low,0.019971453034878694,0.019971453034878694
+Surface Water Storage (2014-2020),moderately_low,2018_2019,0.019971453034878694,0.019971453034878694
+Surface Water Storage ( 2020 -2026),2025_2026,very_low,-0.019954033540780652,0.019954033540780652
+Surface Water Storage ( 2020 -2026),very_low,2025_2026,-0.019954033540780652,0.019954033540780652
+Surface Water Storage (2014-2020),moderately_low,high,0.019314891982454053,0.019314891982454053
+Surface Water Storage (2014-2020),high,moderately_low,0.019314891982454053,0.019314891982454053
+Surface Water Storage (2014-2020),low,2018_2019,0.017866766204373333,0.017866766204373333
+Surface Water Storage (2014-2020),2018_2019,low,0.017866766204373333,0.017866766204373333
+Surface Water Storage (2014-2020),very_low,2019_2020,0.016897473203008412,0.016897473203008412
+Surface Water Storage (2014-2020),2019_2020,very_low,0.016897473203008412,0.016897473203008412
+Weather,tmax,prcp,0.014796938019755722,0.014796938019755722
+Weather,prcp,tmax,0.014796938019755722,0.014796938019755722
+Surface Water Storage ( 2020 -2026),2025_2026,moderately_low,0.0147388161932249,0.0147388161932249
+Surface Water Storage ( 2020 -2026),moderately_low,2025_2026,0.0147388161932249,0.0147388161932249
+Surface Water Storage (2014-2020),moderately_low,2019_2020,0.011336365893393156,0.011336365893393156
+Surface Water Storage (2014-2020),2019_2020,moderately_low,0.011336365893393156,0.011336365893393156
+Surface Water Storage (2014-2020),low,2019_2020,0.010842432144260311,0.010842432144260311
+Surface Water Storage (2014-2020),2019_2020,low,0.010842432144260311,0.010842432144260311
+Surface Water Storage ( 2020 -2026),moderately_high,2025_2026,0.010822731792770879,0.010822731792770879
+Surface Water Storage ( 2020 -2026),2025_2026,moderately_high,0.010822731792770879,0.010822731792770879
+Weather,prcp,longitude,0.010573118891012218,0.010573118891012218
+Weather,longitude,prcp,0.010573118891012218,0.010573118891012218
+Weather,elevation,prcp,0.010074530948446729,0.010074530948446729
+Weather,prcp,elevation,0.010074530948446729,0.010074530948446729
+Weather,prcp,latitude,-0.009853732625808822,0.009853732625808822
+Weather,latitude,prcp,-0.009853732625808822,0.009853732625808822
+Surface Water Storage ( 2020 -2026),2024_2025,normal,-0.009568556046011506,0.009568556046011506
+Surface Water Storage ( 2020 -2026),normal,2024_2025,-0.009568556046011506,0.009568556046011506
+Surface Water Storage ( 2020 -2026),high,low,-0.008712300299913498,0.008712300299913498
+Surface Water Storage ( 2020 -2026),low,high,-0.008712300299913498,0.008712300299913498
+Surface Water Storage (2014-2020),2019_2020,normal,-0.00530980795943506,0.00530980795943506
+Surface Water Storage (2014-2020),normal,2019_2020,-0.00530980795943506,0.00530980795943506
+Surface Water Storage ( 2020 -2026),2024_2025,moderately_high,0.004533809046370794,0.004533809046370794
+Surface Water Storage ( 2020 -2026),moderately_high,2024_2025,0.004533809046370794,0.004533809046370794
+Surface Water Storage ( 2020 -2026),2024_2025,low,-0.0038066154342294494,0.0038066154342294494
+Surface Water Storage ( 2020 -2026),low,2024_2025,-0.0038066154342294494,0.0038066154342294494
+Surface Water Storage ( 2020 -2026),low,2025_2026,0.00015655885969798573,0.00015655885969798573
+Surface Water Storage ( 2020 -2026),2025_2026,low,0.00015655885969798573,0.00015655885969798573

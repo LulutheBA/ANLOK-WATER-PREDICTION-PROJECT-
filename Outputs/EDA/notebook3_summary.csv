@@ -1,0 +1,8 @@
+Metric,Value
+Clean datasets received from Notebook 2,26
+Engineered datasets,26
+Modelling candidates,18
+Target candidates identified,44
+EDA output directory,/content/ANLOK-WATER-PREDICTION-PROJECT-/Outputs/EDA
+Feature engineering output directory,/content/ANLOK-WATER-PREDICTION-PROJECT-/Outputs/FeatureEngineering
+Modelling data directory,/content/ANLOK-WATER-PREDICTION-PROJECT-/Outputs/ModellingData

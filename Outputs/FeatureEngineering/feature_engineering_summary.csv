@@ -1,0 +1,27 @@
+Dataset,Rows,Original Columns,Engineered Columns,New Features,New Feature Names,Numeric Features
+Areas of Highest Vulnerability_ 2026_04_21,11,21,21,0,,0
+Drinking Water Quality Compliance - SANS 241 _2006 - National [From_ 2022-07-01 To_ 2026-06-30],4,2,4,2,sans_241__2006_change; sans_241__2006_pct_change,3
+Households Served with Water_ 2026_04_21,11,17,19,2,households_served_with_water_201415_change; households_served_with_water_201415_pct_change,4
+Institutional Compliance_ 2026_04_21,11,5,9,4,effluent_water_compliance_percentage_change; effluent_water_compliance_percentage_pct_change; potable_water_compliance_percentage_change; potable_water_compliance_percentage_pct_change,6
+Microbiological _ Acute Health_ 2026_04_21,11,8,12,4,analysis_failed_change; analysis_failed_pct_change; compliance_percentage_change; compliance_percentage_pct_change,6
+NIWIS_GroundwaterStatus_16-Jul-2026 ,1946,8,8,0,,1
+NIWIS_RWT_16-Jul-2026 ,9,5,11,6,domestic_and_industry_c_m3_change; domestic_and_industry_c_m3_pct_change; forestry_c_m3_change; forestry_c_m3_pct_change; irrigation_c_m3_change; irrigation_c_m3_pct_change,9
+NIWIS_WasteWaterQuality_16-Jul-2026 ,143,5,5,0,,0
+NIWIS_Water Supply Reliability - population_16-Jul-2026 ,144,13,13,0,,0
+Operational_ 2026_04_21,11,8,12,4,analysis_failed_change; analysis_failed_pct_change; compliance_percentage_change; compliance_percentage_pct_change,6
+People Served with Water_ 2026_04_21,11,17,19,2,population_served_with_water_201415_change; population_served_with_water_201415_pct_change,4
+Piped Water Households _ 2026_04_21,10,12,12,0,,2
+Potable Systems_ 2026_04_21,61,11,15,4,drinking_water_quality_percentage_change; drinking_water_quality_percentage_pct_change; latest_blue_drop_score_change; latest_blue_drop_score_pct_change,6
+Protests Identified by Municipal IQ_ 2026_04_21,11,16,42,26,corruption_change; corruption_pct_change; councillor_change; councillor_pct_change; criminality_change; criminality_pct_change; electricity_change; electricity_pct_change; housing_change; housing_pct_change; informal_change; informal_pct_change; refuse_removal_change; refuse_removal_pct_change; roads_change; roads_pct_change; sanitation_change; sanitation_pct_change; total_protests_change; total_protests_pct_change; violent_change; violent_pct_change; water_change; water_pct_change; xenophobia_change; xenophobia_pct_change,39
+Residential Tariffs_ 2026_04_21,11,7,7,0,,0
+Source of Water Households _ 2026_04_21,10,13,13,0,,1
+Surface Water Storage ( 2020 -2026),375,9,25,16,2024_2025_change; 2024_2025_pct_change; 2025_2026_change; 2025_2026_pct_change; high_change; high_pct_change; low_change; low_pct_change; moderately_high_change; moderately_high_pct_change; moderately_low_change; moderately_low_pct_change; normal_change; normal_pct_change; very_low_change; very_low_pct_change,24
+Surface Water Storage (2014-2020),374,9,25,16,2018_2019_change; 2018_2019_pct_change; 2019_2020_change; 2019_2020_pct_change; high_change; high_pct_change; low_change; low_pct_change; moderately_high_change; moderately_high_pct_change; moderately_low_change; moderately_low_pct_change; normal_change; normal_pct_change; very_low_change; very_low_pct_change,24
+TimeSeries Population_ 2026_04_21,11,35,35,0,,0
+Timeseries Households_ 2026_04_21,11,35,35,0,,0
+Total Households_ 2026_04_21,11,8,10,2,hh_density_change; hh_density_pct_change,3
+Total Population_ 2026_04_21,11,8,10,2,hh_density_change; hh_density_pct_change,3
+Verified - River Flow ( National ),7,2,4,2,flow_level_change; flow_level_pct_change,3
+Vulnerability Score Per leg_ 2026_04_21,11,9,21,12,10__infrastructure_asset_management__iam_change; 10__infrastructure_asset_management__iam_pct_change; 11__operation___maintenance__o_m__of_assets_change; 11__operation___maintenance__o_m__of_assets_pct_change; 1__water_services_planning_change; 1__water_services_planning_pct_change; 4__technical_staff_capacity__numbers_change; 4__technical_staff_capacity__numbers_pct_change; 6__water_conservation___water_demand_management__wc_wdm_change; 6__water_conservation___water_demand_management__wc_wdm_pct_change; 7__drinking_water_safety___regulatory_compliance_change; 7__drinking_water_safety___regulatory_compliance_pct_change,18
+Water demand growth_ 2026_04_21,11,10,16,6,non_revenue_water_change; non_revenue_water_pct_change; water_demand_growth_change; water_demand_growth_pct_change; water_losses_change; water_losses_pct_change,9
+Weather,21301,14,71,57,day; day_change; day_of_year; day_of_year_change; day_of_year_pct_change; day_pct_change; elevation_change; elevation_pct_change; latitude_change; latitude_pct_change; longitude_change; longitude_pct_change; month; month_change; month_cos; month_cos_change; month_cos_pct_change; month_pct_change; month_sin; month_sin_change; month_sin_pct_change; prcp_change; prcp_pct_change; quarter; quarter_change; quarter_pct_change; rainfall_30day; rainfall_30day_change; rainfall_30day_pct_change; rainfall_7day; rainfall_7day_change; rainfall_7day_mean; rainfall_7day_mean_change; rainfall_7day_mean_pct_change; rainfall_7day_pct_change; rainfall_90day; rainfall_90day_change; rainfall_90day_pct_change; rainfall_present; tavg_change; tavg_pct_change; temperature_range; temperature_range_change; temperature_range_pct_change; tmax_7day_mean; tmax_7day_mean_change; tmax_7day_mean_pct_change; tmax_change; tmax_pct_change; tmin_7day_mean; tmin_7day_mean_change; tmin_7day_mean_pct_change; tmin_change; tmin_pct_change; year; year_change; year_pct_change,64

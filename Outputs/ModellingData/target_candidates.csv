@@ -1,0 +1,45 @@
+Dataset,Column,Matched Keywords,Data Type,Unique Values,Missing Values
+Households Served with Water_ 2026_04_21,households_served_with_water_201415,water,float64,7,0
+Households Served with Water_ 2026_04_21,households_served_with_water_202122,water,float64,1,0
+Households Served with Water_ 2026_04_21,households_served_with_water_201415_change,water,float64,8,1
+Households Served with Water_ 2026_04_21,households_served_with_water_201415_pct_change,water,float64,4,6
+Institutional Compliance_ 2026_04_21,potable_water_compliance_percentage,"compliance, water",float64,11,0
+Institutional Compliance_ 2026_04_21,effluent_water_compliance_percentage,"compliance, water",float64,11,0
+Institutional Compliance_ 2026_04_21,potable_water_compliance_percentage_change,"compliance, water",float64,10,1
+Institutional Compliance_ 2026_04_21,potable_water_compliance_percentage_pct_change,"compliance, water",float64,10,1
+Institutional Compliance_ 2026_04_21,effluent_water_compliance_percentage_change,"compliance, water",float64,10,1
+Institutional Compliance_ 2026_04_21,effluent_water_compliance_percentage_pct_change,"compliance, water",float64,10,1
+Microbiological _ Acute Health_ 2026_04_21,compliance_percentage,compliance,float64,10,0
+Microbiological _ Acute Health_ 2026_04_21,compliance_percentage_change,compliance,float64,10,1
+Microbiological _ Acute Health_ 2026_04_21,compliance_percentage_pct_change,compliance,float64,7,3
+Operational_ 2026_04_21,compliance_percentage,compliance,float64,10,0
+Operational_ 2026_04_21,compliance_percentage_change,compliance,float64,10,1
+Operational_ 2026_04_21,compliance_percentage_pct_change,compliance,float64,7,3
+People Served with Water_ 2026_04_21,population_served_with_water_201415,water,int64,5,0
+People Served with Water_ 2026_04_21,population_served_with_water_202122,water,float64,1,0
+People Served with Water_ 2026_04_21,population_served_with_water_201415_change,water,float64,6,1
+People Served with Water_ 2026_04_21,population_served_with_water_201415_pct_change,water,float64,3,7
+Potable Systems_ 2026_04_21,drinking_water_quality_percentage,"water_quality, water",float64,17,0
+Potable Systems_ 2026_04_21,drinking_water_quality_percentage_change,"water_quality, water",float64,33,1
+Potable Systems_ 2026_04_21,drinking_water_quality_percentage_pct_change,"water_quality, water",float64,29,5
+Protests Identified by Municipal IQ_ 2026_04_21,water,water,float64,8,0
+Protests Identified by Municipal IQ_ 2026_04_21,water_change,water,float64,7,1
+Protests Identified by Municipal IQ_ 2026_04_21,water_pct_change,water,float64,9,2
+Vulnerability Score Per leg_ 2026_04_21,1__water_services_planning,water,float64,11,0
+Vulnerability Score Per leg_ 2026_04_21,6__water_conservation___water_demand_management__wc_wdm,"demand, water",float64,6,0
+Vulnerability Score Per leg_ 2026_04_21,7__drinking_water_safety___regulatory_compliance,"compliance, water",float64,10,0
+Vulnerability Score Per leg_ 2026_04_21,1__water_services_planning_change,water,float64,10,1
+Vulnerability Score Per leg_ 2026_04_21,1__water_services_planning_pct_change,water,float64,10,1
+Vulnerability Score Per leg_ 2026_04_21,6__water_conservation___water_demand_management__wc_wdm_change,"demand, water",float64,8,1
+Vulnerability Score Per leg_ 2026_04_21,6__water_conservation___water_demand_management__wc_wdm_pct_change,"demand, water",float64,8,1
+Vulnerability Score Per leg_ 2026_04_21,7__drinking_water_safety___regulatory_compliance_change,"compliance, water",float64,10,1
+Vulnerability Score Per leg_ 2026_04_21,7__drinking_water_safety___regulatory_compliance_pct_change,"compliance, water",float64,10,1
+Water demand growth_ 2026_04_21,water_demand_growth,"demand, water",float64,11,0
+Water demand growth_ 2026_04_21,non_revenue_water,water,float64,11,0
+Water demand growth_ 2026_04_21,water_losses,water,float64,11,0
+Water demand growth_ 2026_04_21,water_demand_growth_change,"demand, water",float64,9,1
+Water demand growth_ 2026_04_21,water_demand_growth_pct_change,"demand, water",float64,10,1
+Water demand growth_ 2026_04_21,non_revenue_water_change,water,float64,10,1
+Water demand growth_ 2026_04_21,non_revenue_water_pct_change,water,float64,10,1
+Water demand growth_ 2026_04_21,water_losses_change,water,float64,10,1
+Water demand growth_ 2026_04_21,water_losses_pct_change,water,float64,10,1

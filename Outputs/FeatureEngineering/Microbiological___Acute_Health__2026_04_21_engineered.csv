@@ -1,0 +1,12 @@
+region,time_frame,unnamed__2,risk_type,analysis_done,analysis_failed,compliance_percentage,compliance_result,analysis_failed_change,analysis_failed_pct_change,compliance_percentage_change,compliance_percentage_pct_change
+City of Johannesburg Metropolitan Municipality,2 026,Unknown,Microbiological : Acute Health,1 159,13.0,98.88,Good,,,,
+City of Tshwane Metropolitan Municipality,2 026,Unknown,Microbiological : Acute Health,377,59.0,84.35,Bad,46.0,3.5384615384615383,-14.530000000000001,-0.14694579288025889
+Ekurhuleni Metropolitan Municipality,2 026,Unknown,Microbiological : Acute Health,819,9.0,98.9,Good,-50.0,-0.847457627118644,14.550000000000011,0.17249555423829288
+Emfuleni,2 026,Unknown,Microbiological : Acute Health,0,0.0,0.0,Bad,-9.0,-1.0,-98.9,-1.0
+Lesedi,2 026,Unknown,Microbiological : Acute Health,54,0.0,100.0,Excellent,0.0,,100.0,
+Merafong City,2 026,Unknown,Microbiological : Acute Health,95,1.0,98.95,Good,1.0,,-1.0499999999999972,-0.010499999999999954
+Midvaal,2 026,Unknown,Microbiological : Acute Health,92,2.0,97.83,Good,1.0,1.0,-1.1200000000000045,-0.011318847902981322
+Mogale City,2 026,Unknown,Microbiological : Acute Health,346,24.0,93.06,Bad,22.0,11.0,-4.769999999999996,-0.048758049678012894
+Rand West City,2 026,Unknown,Microbiological : Acute Health,0,0.0,0.0,Bad,-24.0,-1.0,-93.06,-1.0
+Gauteng,2 026,Unknown,Microbiological : Acute Health,2 942,108.0,96.33,Poor,108.0,,96.33,
+<b>Subject Area: Water Quality Management</b><br />Water Quality Management theme reports on all regulatory activities related to drinking water quality as well as waste water effluent quality. Key areas included are monitoring compliance linked to drinking water or waste water effluent compliance.<br /><br /><b>Data Topic : Drinking Water Quality</b><br />Drinking Water Quality<br /><br /><b>Data Topic Detail:</b> Microbiological : Acute Health<br />,Unknown,"<b>Data Source:</b> <a style=""font-weight: bold;color:red;"" href=""http://www.dwa.gov.za/Dir_WS/DWQR"" target=""_blank"" >DWA Bluedrop System</a><br /><b>Update Frequency:</b> Annually<br /><b>Time Frame:</b> 2026<br /><b>Level Of Confidence:</b> 95 Percent",Unknown,Unknown,5.5,97.08,Unknown,-102.5,-0.9490740740740741,0.75,0.007785736530675713

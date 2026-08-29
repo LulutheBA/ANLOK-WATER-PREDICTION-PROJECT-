@@ -1,0 +1,95 @@
+Dataset,Column,Matched Keywords,Data Type,Unique Values,Missing Values
+Areas of Highest Vulnerability_ 2026_04_21,1__water_services_planning,water,object,5,0
+Areas of Highest Vulnerability_ 2026_04_21,5__water_resource_management__wrm,water,object,5,0
+Areas of Highest Vulnerability_ 2026_04_21,6__water_conservation___water_demand_management__wc_wdm,"water, demand",object,4,0
+Areas of Highest Vulnerability_ 2026_04_21,7__drinking_water_safety___regulatory_compliance,"water, compliance",object,4,0
+Areas of Highest Vulnerability_ 2026_04_21,9__wastewater_environmental_safety___regulatory_compliance,"water, compliance",object,5,0
+Areas of Highest Vulnerability_ 2026_04_21,17__water_and_sanitation_service_quality,"water, quality",object,4,0
+Households Served with Water_ 2026_04_21,households_served_with_water_1994_to_april_2025,"water, household",object,11,0
+Households Served with Water_ 2026_04_21,households_served_with_water_201415,"water, household",float64,7,0
+Households Served with Water_ 2026_04_21,households_served_with_water_201516,"water, household",object,11,0
+Households Served with Water_ 2026_04_21,households_served_with_water_201617,"water, household",object,11,0
+Households Served with Water_ 2026_04_21,households_served_with_water_201718,"water, household",object,11,0
+Households Served with Water_ 2026_04_21,households_served_with_water_201819,"water, household",object,11,0
+Households Served with Water_ 2026_04_21,households_served_with_water_201920,"water, household",object,11,0
+Households Served with Water_ 2026_04_21,households_served_with_water_202021,"water, household",object,11,0
+Households Served with Water_ 2026_04_21,households_served_with_water_202122,"water, household",float64,1,0
+Households Served with Water_ 2026_04_21,households_served_with_water_202223,"water, household",object,11,0
+Households Served with Water_ 2026_04_21,households_served_with_water_202324,"water, household",object,11,0
+Households Served with Water_ 2026_04_21,households_served_with_water_202425,"water, household",object,11,0
+Households Served with Water_ 2026_04_21,households_served_with_water_202526,"water, household",object,11,0
+Households Served with Water_ 2026_04_21,planned_households_to_be_served_202627,household,object,11,0
+Institutional Compliance_ 2026_04_21,potable_water_compliance_percentage,"water, compliance",float64,11,0
+Institutional Compliance_ 2026_04_21,effluent_water_compliance_percentage,"water, compliance",float64,11,0
+Microbiological _ Acute Health_ 2026_04_21,compliance_percentage,compliance,float64,10,0
+Microbiological _ Acute Health_ 2026_04_21,compliance_result,compliance,object,5,0
+NIWIS_Water Supply Reliability - population_16-Jul-2026 ,population,population,object,144,0
+NIWIS_Water Supply Reliability - population_16-Jul-2026 ,population_with_access_to_water,"water, access, population",object,136,0
+NIWIS_Water Supply Reliability - population_16-Jul-2026 ,population_reliable_supply,"supply, reliab, population",object,144,0
+NIWIS_Water Supply Reliability - population_16-Jul-2026 ,population_reliable_supply_1,"supply, reliab, population",object,52,0
+NIWIS_Water Supply Reliability - population_16-Jul-2026 ,urban_population,population,object,143,0
+NIWIS_Water Supply Reliability - population_16-Jul-2026 ,urban_population_with_access_to_water,"water, access, population",object,143,0
+NIWIS_Water Supply Reliability - population_16-Jul-2026 ,urban_population_reliable_supply,"supply, reliab, population",object,143,0
+NIWIS_Water Supply Reliability - population_16-Jul-2026 ,urban_population_reliable_supply_1,"supply, reliab, population",object,49,0
+NIWIS_Water Supply Reliability - population_16-Jul-2026 ,rural_population,population,object,137,0
+NIWIS_Water Supply Reliability - population_16-Jul-2026 ,rural_population_with_access_to_water,"water, access, population",object,138,0
+NIWIS_Water Supply Reliability - population_16-Jul-2026 ,rural_population_reliable_supply,"supply, reliab, population",object,137,0
+NIWIS_Water Supply Reliability - population_16-Jul-2026 ,rural_population_reliable_supply_1,"supply, reliab, population",object,58,0
+Operational_ 2026_04_21,compliance_percentage,compliance,float64,10,0
+Operational_ 2026_04_21,compliance_result,compliance,object,5,0
+People Served with Water_ 2026_04_21,population_served_with_water_1994_to_april_2025,"water, population",object,11,0
+People Served with Water_ 2026_04_21,population_served_with_water_201415,"water, population",int64,5,0
+People Served with Water_ 2026_04_21,population_served_with_water_201516,"water, population",object,11,0
+People Served with Water_ 2026_04_21,population_served_with_water_201617,"water, population",object,11,0
+People Served with Water_ 2026_04_21,population_served_with_water_201718,"water, population",object,11,0
+People Served with Water_ 2026_04_21,population_served_with_water_201819,"water, population",object,11,0
+People Served with Water_ 2026_04_21,population_served_with_water_201920,"water, population",object,11,0
+People Served with Water_ 2026_04_21,population_served_with_water_202021,"water, population",object,11,0
+People Served with Water_ 2026_04_21,population_served_with_water_202122,"water, population",float64,1,0
+People Served with Water_ 2026_04_21,population_served_with_water_202223,"water, population",object,11,0
+People Served with Water_ 2026_04_21,population_served_with_water_202324,"water, population",object,11,0
+People Served with Water_ 2026_04_21,population_served_with_water_202425,"water, population",object,11,0
+People Served with Water_ 2026_04_21,population_served_with_water_202526,"water, population",object,11,0
+People Served with Water_ 2026_04_21,planned_population_to_be_served_202627,population,object,11,0
+Piped Water Households _ 2026_04_21,piped__tap__water_inside_dwelling_institution,water,object,10,0
+Piped Water Households _ 2026_04_21,piped__tap__water_inside_yard,water,object,10,0
+Piped Water Households _ 2026_04_21,piped__tap__water_on_community_stand__distance_less_than_200m_fr,water,object,10,0
+Piped Water Households _ 2026_04_21,piped__tap__water_on_community_stand__distance_between_200m_and,water,object,10,0
+Piped Water Households _ 2026_04_21,piped__tap__water_on_community_stand__distance_between_500m_and,water,object,10,0
+Piped Water Households _ 2026_04_21,piped__tap__water_on_community_stand__distance_greater_than_1000,water,object,10,0
+Piped Water Households _ 2026_04_21,no_access_to_piped__tap__water,"water, access",object,10,0
+Potable Systems_ 2026_04_21,population_in_system,population,object,27,0
+Potable Systems_ 2026_04_21,households_in_system,household,object,30,0
+Potable Systems_ 2026_04_21,households_with_access_to_rdp_water,"water, access, household",object,30,0
+Potable Systems_ 2026_04_21,households_with_access_to_reliable_water,"water, reliab, access, household",object,30,0
+Potable Systems_ 2026_04_21,drinking_water_quality_percentage,"water, quality",float64,17,0
+Protests Identified by Municipal IQ_ 2026_04_21,total_protests,protest,float64,11,0
+Protests Identified by Municipal IQ_ 2026_04_21,water,water,float64,8,0
+Residential Tariffs_ 2026_04_21,tariff_0_6kl__incl_vat,tariff,object,9,0
+Residential Tariffs_ 2026_04_21,tariff_6_20kl__incl_vat,tariff,object,11,0
+Residential Tariffs_ 2026_04_21,tariff_20_60kl__incl_vat,tariff,object,11,0
+Residential Tariffs_ 2026_04_21,tariff__60kl__incl_vat,tariff,object,11,0
+Source of Water Households _ 2026_04_21,regional_local_water_scheme__operated_by_municipality_or_other_w,water,object,10,0
+Source of Water Households _ 2026_04_21,rain_water_tank,"water, rain",object,10,0
+Source of Water Households _ 2026_04_21,dam_pool_stagnant_water,water,object,10,0
+Source of Water Households _ 2026_04_21,water_vendor,water,object,10,0
+Source of Water Households _ 2026_04_21,water_tanker,water,object,10,0
+Total Households_ 2026_04_21,total_households,household,object,11,0
+Total Households_ 2026_04_21,total_population,population,object,11,0
+Total Households_ 2026_04_21,urban_households,household,object,11,0
+Total Households_ 2026_04_21,rural_households,household,object,11,0
+Total Population_ 2026_04_21,total_population,population,object,11,0
+Total Population_ 2026_04_21,total_households,household,object,11,0
+Total Population_ 2026_04_21,urban_population,population,object,11,0
+Total Population_ 2026_04_21,rural_population,population,object,11,0
+Verified - River Flow ( National ),flow,flow,object,7,0
+Verified - River Flow ( National ),flow_level,flow,int64,7,0
+Vulnerability Score Per leg_ 2026_04_21,1__water_services_planning,water,float64,11,0
+Vulnerability Score Per leg_ 2026_04_21,6__water_conservation___water_demand_management__wc_wdm,"water, demand",float64,6,0
+Vulnerability Score Per leg_ 2026_04_21,7__drinking_water_safety___regulatory_compliance,"water, compliance",float64,10,0
+Water demand growth_ 2026_04_21,water_demand_growth,"water, demand",float64,11,0
+Water demand growth_ 2026_04_21,non_revenue_water,water,float64,11,0
+Water demand growth_ 2026_04_21,water_losses,water,float64,11,0
+Water demand growth_ 2026_04_21,revenue_water__litres,water,object,11,0
+Water demand growth_ 2026_04_21,non_revenue_water__litres,water,object,11,0
+Water demand growth_ 2026_04_21,water_losses__litres,water,object,11,0
