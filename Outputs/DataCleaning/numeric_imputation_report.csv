@@ -1,0 +1,59 @@
+Dataset,Column,Missing Before,Method,Imputation Value
+Households Served with Water_ 2026_04_21,households_served_with_water_201415,1,Median,9.0
+Households Served with Water_ 2026_04_21,households_served_with_water_202122,1,Median,0.0
+Institutional Compliance_ 2026_04_21,potable_water_compliance_percentage,1,Median,99.53999999999999
+Institutional Compliance_ 2026_04_21,effluent_water_compliance_percentage,1,Median,76.115
+Microbiological _ Acute Health_ 2026_04_21,analysis_failed,1,Median,5.5
+Microbiological _ Acute Health_ 2026_04_21,compliance_percentage,1,Median,97.08
+Operational_ 2026_04_21,analysis_failed,1,Median,22.5
+Operational_ 2026_04_21,compliance_percentage,1,Median,96.99000000000001
+People Served with Water_ 2026_04_21,population_served_with_water_201415,2,Median,0.0
+People Served with Water_ 2026_04_21,population_served_with_water_202122,1,Median,0.0
+Piped Water Households _ 2026_04_21,unspecified,1,Median,0.0
+Piped Water Households _ 2026_04_21,not_applicable,1,Median,0.0
+Potable Systems_ 2026_04_21,drinking_water_quality_percentage,1,Median,99.89500000000001
+Potable Systems_ 2026_04_21,latest_blue_drop_score,1,Median,86.515
+Protests Identified by Municipal IQ_ 2026_04_21,total_protests,1,Median,13.5
+Protests Identified by Municipal IQ_ 2026_04_21,informal,1,Median,5.5
+Protests Identified by Municipal IQ_ 2026_04_21,violent,1,Median,12.5
+Protests Identified by Municipal IQ_ 2026_04_21,xenophobia,1,Median,2.0
+Protests Identified by Municipal IQ_ 2026_04_21,criminality,1,Median,2.5
+Protests Identified by Municipal IQ_ 2026_04_21,corruption,1,Median,2.0
+Protests Identified by Municipal IQ_ 2026_04_21,councillor,1,Median,6.0
+Protests Identified by Municipal IQ_ 2026_04_21,water,1,Median,3.0
+Protests Identified by Municipal IQ_ 2026_04_21,sanitation,1,Median,2.5
+Protests Identified by Municipal IQ_ 2026_04_21,electricity,1,Median,5.5
+Protests Identified by Municipal IQ_ 2026_04_21,refuse_removal,1,Median,0.5
+Protests Identified by Municipal IQ_ 2026_04_21,roads,1,Median,2.0
+Protests Identified by Municipal IQ_ 2026_04_21,housing,1,Median,3.5
+Source of Water Households _ 2026_04_21,not_applicable,1,Median,0.0
+Surface Water Storage ( 2020 -2026),high,303,Median,96.64
+Surface Water Storage ( 2020 -2026),moderately_high,303,Median,88.39750000000001
+Surface Water Storage ( 2020 -2026),normal,303,Median,85.739
+Surface Water Storage ( 2020 -2026),moderately_low,303,Median,79.11600000000001
+Surface Water Storage ( 2020 -2026),low,303,Median,69.28750000000001
+Surface Water Storage ( 2020 -2026),very_low,303,Median,64.29999999999998
+Surface Water Storage ( 2020 -2026),2024_2025,62,Median,85.97902462508516
+Surface Water Storage ( 2020 -2026),2025_2026,73,Median,91.37486676528275
+Surface Water Storage (2014-2020),high,302,Median,94.245
+Surface Water Storage (2014-2020),moderately_high,302,Median,87.03875
+Surface Water Storage (2014-2020),normal,302,Median,85.80699999999999
+Surface Water Storage (2014-2020),moderately_low,302,Median,79.695
+Surface Water Storage (2014-2020),low,302,Median,72.3475
+Surface Water Storage (2014-2020),very_low,302,Median,64.2245
+Surface Water Storage (2014-2020),2018_2019,60,Median,72.28736613306177
+Surface Water Storage (2014-2020),2019_2020,99,Median,68.0609766986763
+Total Households_ 2026_04_21,hh_density,1,Median,2.87
+Total Population_ 2026_04_21,hh_density,1,Median,2.87
+Vulnerability Score Per leg_ 2026_04_21,1__water_services_planning,1,Median,72.39
+Vulnerability Score Per leg_ 2026_04_21,4__technical_staff_capacity__numbers,1,Median,49.445
+Vulnerability Score Per leg_ 2026_04_21,6__water_conservation___water_demand_management__wc_wdm,1,Median,77.5
+Vulnerability Score Per leg_ 2026_04_21,7__drinking_water_safety___regulatory_compliance,1,Median,75.61
+Vulnerability Score Per leg_ 2026_04_21,10__infrastructure_asset_management__iam,1,Median,62.5
+Vulnerability Score Per leg_ 2026_04_21,11__operation___maintenance__o_m__of_assets,1,Median,51.665
+Water demand growth_ 2026_04_21,water_demand_growth,1,Median,0.575
+Water demand growth_ 2026_04_21,non_revenue_water,1,Median,35.019999999999996
+Water demand growth_ 2026_04_21,water_losses,1,Median,30.25
+Weather,prcp,13284,Median,0.5
+Weather,tmax,1640,Median,25.6
+Weather,tmin,4499,Median,12.2

@@ -1,0 +1,200 @@
+Dataset,Column,Missing Before,Method
+Areas of Highest Vulnerability_ 2026_04_21,time_frame,1,Unknown category
+Areas of Highest Vulnerability_ 2026_04_21,unnamed__2,10,Unknown category
+Areas of Highest Vulnerability_ 2026_04_21,1__water_services_planning,1,Unknown category
+Areas of Highest Vulnerability_ 2026_04_21,2__management_skill_level__technical,1,Unknown category
+Areas of Highest Vulnerability_ 2026_04_21,3__staff_skill_level__technical,1,Unknown category
+Areas of Highest Vulnerability_ 2026_04_21,4__technical_staff_capacity__numbers,1,Unknown category
+Areas of Highest Vulnerability_ 2026_04_21,5__water_resource_management__wrm,1,Unknown category
+Areas of Highest Vulnerability_ 2026_04_21,6__water_conservation___water_demand_management__wc_wdm,1,Unknown category
+Areas of Highest Vulnerability_ 2026_04_21,7__drinking_water_safety___regulatory_compliance,1,Unknown category
+Areas of Highest Vulnerability_ 2026_04_21,8__basic_sanitation,1,Unknown category
+Areas of Highest Vulnerability_ 2026_04_21,9__wastewater_environmental_safety___regulatory_compliance,1,Unknown category
+Areas of Highest Vulnerability_ 2026_04_21,10__infrastructure_asset_management__iam,1,Unknown category
+Areas of Highest Vulnerability_ 2026_04_21,11__operation___maintenance__o_m__of_assets,1,Unknown category
+Areas of Highest Vulnerability_ 2026_04_21,12__financial_management,1,Unknown category
+Areas of Highest Vulnerability_ 2026_04_21,13__revenue_collection,1,Unknown category
+Areas of Highest Vulnerability_ 2026_04_21,14__financial_asset_management,1,Unknown category
+Areas of Highest Vulnerability_ 2026_04_21,15__information_management__it,1,Unknown category
+Areas of Highest Vulnerability_ 2026_04_21,16__organisational_performance_monitoring,1,Unknown category
+Areas of Highest Vulnerability_ 2026_04_21,17__water_and_sanitation_service_quality,1,Unknown category
+Areas of Highest Vulnerability_ 2026_04_21,18__customer_care__crm,1,Unknown category
+Households Served with Water_ 2026_04_21,time_frame,1,Unknown category
+Households Served with Water_ 2026_04_21,unnamed__2,10,Unknown category
+Households Served with Water_ 2026_04_21,households_served_with_water_1994_to_april_2025,1,Unknown category
+Households Served with Water_ 2026_04_21,households_served_with_water_201516,1,Unknown category
+Households Served with Water_ 2026_04_21,households_served_with_water_201617,1,Unknown category
+Households Served with Water_ 2026_04_21,households_served_with_water_201718,1,Unknown category
+Households Served with Water_ 2026_04_21,households_served_with_water_201819,1,Unknown category
+Households Served with Water_ 2026_04_21,households_served_with_water_201920,1,Unknown category
+Households Served with Water_ 2026_04_21,households_served_with_water_202021,1,Unknown category
+Households Served with Water_ 2026_04_21,households_served_with_water_202223,1,Unknown category
+Households Served with Water_ 2026_04_21,households_served_with_water_202324,1,Unknown category
+Households Served with Water_ 2026_04_21,households_served_with_water_202425,1,Unknown category
+Households Served with Water_ 2026_04_21,households_served_with_water_202526,1,Unknown category
+Households Served with Water_ 2026_04_21,planned_households_to_be_served_202627,1,Unknown category
+Institutional Compliance_ 2026_04_21,time_frame,1,Unknown category
+Institutional Compliance_ 2026_04_21,unnamed__2,10,Unknown category
+Microbiological _ Acute Health_ 2026_04_21,time_frame,1,Unknown category
+Microbiological _ Acute Health_ 2026_04_21,unnamed__2,10,Unknown category
+Microbiological _ Acute Health_ 2026_04_21,risk_type,1,Unknown category
+Microbiological _ Acute Health_ 2026_04_21,analysis_done,1,Unknown category
+Microbiological _ Acute Health_ 2026_04_21,compliance_result,1,Unknown category
+NIWIS_GroundwaterStatus_16-Jul-2026 ,recharge__gwr_m3_a,836,Unknown category
+NIWIS_GroundwaterStatus_16-Jul-2026 ,reserve__gwr_m3_a,836,Unknown category
+NIWIS_GroundwaterStatus_16-Jul-2026 ,surplus__gwr_m3_a,836,Unknown category
+NIWIS_Water Supply Reliability - population_16-Jul-2026 ,population_with_access_to_water,9,Unknown category
+NIWIS_Water Supply Reliability - population_16-Jul-2026 ,urban_population,2,Unknown category
+NIWIS_Water Supply Reliability - population_16-Jul-2026 ,urban_population_with_access_to_water,2,Unknown category
+NIWIS_Water Supply Reliability - population_16-Jul-2026 ,urban_population_reliable_supply,2,Unknown category
+NIWIS_Water Supply Reliability - population_16-Jul-2026 ,urban_population_reliable_supply_1,2,Unknown category
+NIWIS_Water Supply Reliability - population_16-Jul-2026 ,rural_population,7,Unknown category
+NIWIS_Water Supply Reliability - population_16-Jul-2026 ,rural_population_with_access_to_water,7,Unknown category
+NIWIS_Water Supply Reliability - population_16-Jul-2026 ,rural_population_reliable_supply,7,Unknown category
+NIWIS_Water Supply Reliability - population_16-Jul-2026 ,rural_population_reliable_supply_1,7,Unknown category
+Operational_ 2026_04_21,time_frame,1,Unknown category
+Operational_ 2026_04_21,unnamed__2,10,Unknown category
+Operational_ 2026_04_21,risk_type,1,Unknown category
+Operational_ 2026_04_21,analysis_done,1,Unknown category
+Operational_ 2026_04_21,compliance_result,1,Unknown category
+People Served with Water_ 2026_04_21,time_frame,1,Unknown category
+People Served with Water_ 2026_04_21,unnamed__2,10,Unknown category
+People Served with Water_ 2026_04_21,population_served_with_water_1994_to_april_2025,1,Unknown category
+People Served with Water_ 2026_04_21,population_served_with_water_201516,1,Unknown category
+People Served with Water_ 2026_04_21,population_served_with_water_201617,1,Unknown category
+People Served with Water_ 2026_04_21,population_served_with_water_201718,1,Unknown category
+People Served with Water_ 2026_04_21,population_served_with_water_201819,1,Unknown category
+People Served with Water_ 2026_04_21,population_served_with_water_201920,1,Unknown category
+People Served with Water_ 2026_04_21,population_served_with_water_202021,1,Unknown category
+People Served with Water_ 2026_04_21,population_served_with_water_202223,1,Unknown category
+People Served with Water_ 2026_04_21,population_served_with_water_202324,1,Unknown category
+People Served with Water_ 2026_04_21,population_served_with_water_202425,1,Unknown category
+People Served with Water_ 2026_04_21,population_served_with_water_202526,1,Unknown category
+People Served with Water_ 2026_04_21,planned_population_to_be_served_202627,1,Unknown category
+Piped Water Households _ 2026_04_21,time_frame,1,Unknown category
+Piped Water Households _ 2026_04_21,unnamed__2,9,Unknown category
+Piped Water Households _ 2026_04_21,piped__tap__water_inside_dwelling_institution,1,Unknown category
+Piped Water Households _ 2026_04_21,piped__tap__water_inside_yard,1,Unknown category
+Piped Water Households _ 2026_04_21,piped__tap__water_on_community_stand__distance_less_than_200m_fr,1,Unknown category
+Piped Water Households _ 2026_04_21,piped__tap__water_on_community_stand__distance_between_200m_and,1,Unknown category
+Piped Water Households _ 2026_04_21,piped__tap__water_on_community_stand__distance_between_500m_and,1,Unknown category
+Piped Water Households _ 2026_04_21,piped__tap__water_on_community_stand__distance_greater_than_1000,1,Unknown category
+Piped Water Households _ 2026_04_21,no_access_to_piped__tap__water,1,Unknown category
+Potable Systems_ 2026_04_21,time_frame,1,Unknown category
+Potable Systems_ 2026_04_21,unnamed__2,60,Unknown category
+Potable Systems_ 2026_04_21,system_name,1,Unknown category
+Potable Systems_ 2026_04_21,system_area,1,Unknown category
+Potable Systems_ 2026_04_21,population_in_system,1,Unknown category
+Potable Systems_ 2026_04_21,households_in_system,1,Unknown category
+Potable Systems_ 2026_04_21,households_with_access_to_rdp_water,1,Unknown category
+Potable Systems_ 2026_04_21,households_with_access_to_reliable_water,1,Unknown category
+Protests Identified by Municipal IQ_ 2026_04_21,time_frame,1,Unknown category
+Protests Identified by Municipal IQ_ 2026_04_21,unnamed__2,10,Unknown category
+Residential Tariffs_ 2026_04_21,time_frame,1,Unknown category
+Residential Tariffs_ 2026_04_21,unnamed__2,10,Unknown category
+Residential Tariffs_ 2026_04_21,tariff_0_6kl__incl_vat,1,Unknown category
+Residential Tariffs_ 2026_04_21,tariff_6_20kl__incl_vat,1,Unknown category
+Residential Tariffs_ 2026_04_21,tariff_20_60kl__incl_vat,1,Unknown category
+Residential Tariffs_ 2026_04_21,tariff__60kl__incl_vat,1,Unknown category
+Source of Water Households _ 2026_04_21,time_frame,1,Unknown category
+Source of Water Households _ 2026_04_21,unnamed__2,9,Unknown category
+Source of Water Households _ 2026_04_21,regional_local_water_scheme__operated_by_municipality_or_other_w,1,Unknown category
+Source of Water Households _ 2026_04_21,borehole,1,Unknown category
+Source of Water Households _ 2026_04_21,spring,1,Unknown category
+Source of Water Households _ 2026_04_21,rain_water_tank,1,Unknown category
+Source of Water Households _ 2026_04_21,dam_pool_stagnant_water,1,Unknown category
+Source of Water Households _ 2026_04_21,river_stream,1,Unknown category
+Source of Water Households _ 2026_04_21,water_vendor,1,Unknown category
+Source of Water Households _ 2026_04_21,water_tanker,1,Unknown category
+Source of Water Households _ 2026_04_21,other,1,Unknown category
+TimeSeries Population_ 2026_04_21,time_frame,1,Unknown category
+TimeSeries Population_ 2026_04_21,unnamed__2,10,Unknown category
+TimeSeries Population_ 2026_04_21,april_1994,1,Unknown category
+TimeSeries Population_ 2026_04_21,april_1995,1,Unknown category
+TimeSeries Population_ 2026_04_21,april_1996,1,Unknown category
+TimeSeries Population_ 2026_04_21,april_1997,1,Unknown category
+TimeSeries Population_ 2026_04_21,april_1998,1,Unknown category
+TimeSeries Population_ 2026_04_21,april_1999,1,Unknown category
+TimeSeries Population_ 2026_04_21,april_2000,1,Unknown category
+TimeSeries Population_ 2026_04_21,april_2001,1,Unknown category
+TimeSeries Population_ 2026_04_21,april_2002,1,Unknown category
+TimeSeries Population_ 2026_04_21,april_2004,1,Unknown category
+TimeSeries Population_ 2026_04_21,april_2005,1,Unknown category
+TimeSeries Population_ 2026_04_21,april_2006,1,Unknown category
+TimeSeries Population_ 2026_04_21,april_2007,1,Unknown category
+TimeSeries Population_ 2026_04_21,april_2008,1,Unknown category
+TimeSeries Population_ 2026_04_21,april_2009,1,Unknown category
+TimeSeries Population_ 2026_04_21,april_2010,1,Unknown category
+TimeSeries Population_ 2026_04_21,april_2011,1,Unknown category
+TimeSeries Population_ 2026_04_21,april_2012,1,Unknown category
+TimeSeries Population_ 2026_04_21,april_2013,1,Unknown category
+TimeSeries Population_ 2026_04_21,april_2014,1,Unknown category
+TimeSeries Population_ 2026_04_21,april_2015,1,Unknown category
+TimeSeries Population_ 2026_04_21,april_2016,1,Unknown category
+TimeSeries Population_ 2026_04_21,april_2017,1,Unknown category
+TimeSeries Population_ 2026_04_21,april_2018,1,Unknown category
+TimeSeries Population_ 2026_04_21,april_2019,1,Unknown category
+TimeSeries Population_ 2026_04_21,april_2020,1,Unknown category
+TimeSeries Population_ 2026_04_21,april_2021,1,Unknown category
+TimeSeries Population_ 2026_04_21,april_2022,1,Unknown category
+TimeSeries Population_ 2026_04_21,april_2023,1,Unknown category
+TimeSeries Population_ 2026_04_21,april_2024,1,Unknown category
+TimeSeries Population_ 2026_04_21,april_2025,1,Unknown category
+TimeSeries Population_ 2026_04_21,april_2026,1,Unknown category
+Timeseries Households_ 2026_04_21,time_frame,1,Unknown category
+Timeseries Households_ 2026_04_21,unnamed__2,10,Unknown category
+Timeseries Households_ 2026_04_21,april_1994,1,Unknown category
+Timeseries Households_ 2026_04_21,april_1995,1,Unknown category
+Timeseries Households_ 2026_04_21,april_1996,1,Unknown category
+Timeseries Households_ 2026_04_21,april_1997,1,Unknown category
+Timeseries Households_ 2026_04_21,april_1998,1,Unknown category
+Timeseries Households_ 2026_04_21,april_1999,1,Unknown category
+Timeseries Households_ 2026_04_21,april_2000,1,Unknown category
+Timeseries Households_ 2026_04_21,april_2001,1,Unknown category
+Timeseries Households_ 2026_04_21,april_2002,1,Unknown category
+Timeseries Households_ 2026_04_21,april_2004,1,Unknown category
+Timeseries Households_ 2026_04_21,april_2005,1,Unknown category
+Timeseries Households_ 2026_04_21,april_2006,1,Unknown category
+Timeseries Households_ 2026_04_21,april_2007,1,Unknown category
+Timeseries Households_ 2026_04_21,april_2008,1,Unknown category
+Timeseries Households_ 2026_04_21,april_2009,1,Unknown category
+Timeseries Households_ 2026_04_21,april_2010,1,Unknown category
+Timeseries Households_ 2026_04_21,april_2011,1,Unknown category
+Timeseries Households_ 2026_04_21,april_2012,1,Unknown category
+Timeseries Households_ 2026_04_21,april_2013,1,Unknown category
+Timeseries Households_ 2026_04_21,april_2014,1,Unknown category
+Timeseries Households_ 2026_04_21,april_2015,1,Unknown category
+Timeseries Households_ 2026_04_21,april_2016,1,Unknown category
+Timeseries Households_ 2026_04_21,april_2017,1,Unknown category
+Timeseries Households_ 2026_04_21,april_2018,1,Unknown category
+Timeseries Households_ 2026_04_21,april_2019,1,Unknown category
+Timeseries Households_ 2026_04_21,april_2020,1,Unknown category
+Timeseries Households_ 2026_04_21,april_2021,1,Unknown category
+Timeseries Households_ 2026_04_21,april_2022,1,Unknown category
+Timeseries Households_ 2026_04_21,april_2023,1,Unknown category
+Timeseries Households_ 2026_04_21,april_2024,1,Unknown category
+Timeseries Households_ 2026_04_21,april_2025,1,Unknown category
+Timeseries Households_ 2026_04_21,april_2026,1,Unknown category
+Total Households_ 2026_04_21,time_frame,1,Unknown category
+Total Households_ 2026_04_21,unnamed__2,10,Unknown category
+Total Households_ 2026_04_21,total_households,1,Unknown category
+Total Households_ 2026_04_21,total_population,1,Unknown category
+Total Households_ 2026_04_21,urban_households,1,Unknown category
+Total Households_ 2026_04_21,rural_households,1,Unknown category
+Total Population_ 2026_04_21,time_frame,1,Unknown category
+Total Population_ 2026_04_21,unnamed__2,10,Unknown category
+Total Population_ 2026_04_21,total_population,1,Unknown category
+Total Population_ 2026_04_21,total_households,1,Unknown category
+Total Population_ 2026_04_21,urban_population,1,Unknown category
+Total Population_ 2026_04_21,rural_population,1,Unknown category
+Vulnerability Score Per leg_ 2026_04_21,time_frame,1,Unknown category
+Vulnerability Score Per leg_ 2026_04_21,unnamed__2,10,Unknown category
+Water demand growth_ 2026_04_21,time_frame,1,Unknown category
+Water demand growth_ 2026_04_21,unnamed__2,10,Unknown category
+Water demand growth_ 2026_04_21,system_input_volume__litres,1,Unknown category
+Water demand growth_ 2026_04_21,revenue_water__litres,1,Unknown category
+Water demand growth_ 2026_04_21,non_revenue_water__litres,1,Unknown category
+Water demand growth_ 2026_04_21,water_losses__litres,1,Unknown category
+Weather,prcp_attributes,13284,Unknown category
+Weather,tmax_attributes,1640,Unknown category
+Weather,tmin_attributes,4499,Unknown category

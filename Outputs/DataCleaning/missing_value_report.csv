@@ -1,0 +1,258 @@
+Dataset,Column,Missing Values,Missing %,Data Type
+Areas of Highest Vulnerability_ 2026_04_21,time_frame,1,9.09,string
+Areas of Highest Vulnerability_ 2026_04_21,unnamed__2,10,90.91,string
+Areas of Highest Vulnerability_ 2026_04_21,1__water_services_planning,1,9.09,string
+Areas of Highest Vulnerability_ 2026_04_21,2__management_skill_level__technical,1,9.09,string
+Areas of Highest Vulnerability_ 2026_04_21,3__staff_skill_level__technical,1,9.09,string
+Areas of Highest Vulnerability_ 2026_04_21,4__technical_staff_capacity__numbers,1,9.09,string
+Areas of Highest Vulnerability_ 2026_04_21,5__water_resource_management__wrm,1,9.09,string
+Areas of Highest Vulnerability_ 2026_04_21,6__water_conservation___water_demand_management__wc_wdm,1,9.09,string
+Areas of Highest Vulnerability_ 2026_04_21,7__drinking_water_safety___regulatory_compliance,1,9.09,string
+Areas of Highest Vulnerability_ 2026_04_21,8__basic_sanitation,1,9.09,string
+Areas of Highest Vulnerability_ 2026_04_21,9__wastewater_environmental_safety___regulatory_compliance,1,9.09,string
+Areas of Highest Vulnerability_ 2026_04_21,10__infrastructure_asset_management__iam,1,9.09,string
+Areas of Highest Vulnerability_ 2026_04_21,11__operation___maintenance__o_m__of_assets,1,9.09,string
+Areas of Highest Vulnerability_ 2026_04_21,12__financial_management,1,9.09,string
+Areas of Highest Vulnerability_ 2026_04_21,13__revenue_collection,1,9.09,string
+Areas of Highest Vulnerability_ 2026_04_21,14__financial_asset_management,1,9.09,string
+Areas of Highest Vulnerability_ 2026_04_21,15__information_management__it,1,9.09,string
+Areas of Highest Vulnerability_ 2026_04_21,16__organisational_performance_monitoring,1,9.09,string
+Areas of Highest Vulnerability_ 2026_04_21,17__water_and_sanitation_service_quality,1,9.09,string
+Areas of Highest Vulnerability_ 2026_04_21,18__customer_care__crm,1,9.09,string
+Households Served with Water_ 2026_04_21,time_frame,1,9.09,string
+Households Served with Water_ 2026_04_21,unnamed__2,10,90.91,string
+Households Served with Water_ 2026_04_21,households_served_with_water_1994_to_april_2025,1,9.09,string
+Households Served with Water_ 2026_04_21,households_served_with_water_201415,1,9.09,float64
+Households Served with Water_ 2026_04_21,households_served_with_water_201516,1,9.09,string
+Households Served with Water_ 2026_04_21,households_served_with_water_201617,1,9.09,string
+Households Served with Water_ 2026_04_21,households_served_with_water_201718,1,9.09,string
+Households Served with Water_ 2026_04_21,households_served_with_water_201819,1,9.09,string
+Households Served with Water_ 2026_04_21,households_served_with_water_201920,1,9.09,string
+Households Served with Water_ 2026_04_21,households_served_with_water_202021,1,9.09,string
+Households Served with Water_ 2026_04_21,households_served_with_water_202122,1,9.09,float64
+Households Served with Water_ 2026_04_21,households_served_with_water_202223,1,9.09,string
+Households Served with Water_ 2026_04_21,households_served_with_water_202324,1,9.09,string
+Households Served with Water_ 2026_04_21,households_served_with_water_202425,1,9.09,string
+Households Served with Water_ 2026_04_21,households_served_with_water_202526,1,9.09,string
+Households Served with Water_ 2026_04_21,planned_households_to_be_served_202627,1,9.09,string
+Institutional Compliance_ 2026_04_21,time_frame,1,9.09,string
+Institutional Compliance_ 2026_04_21,unnamed__2,10,90.91,string
+Institutional Compliance_ 2026_04_21,potable_water_compliance_percentage,1,9.09,float64
+Institutional Compliance_ 2026_04_21,effluent_water_compliance_percentage,1,9.09,float64
+Microbiological _ Acute Health_ 2026_04_21,time_frame,1,9.09,string
+Microbiological _ Acute Health_ 2026_04_21,unnamed__2,10,90.91,string
+Microbiological _ Acute Health_ 2026_04_21,risk_type,1,9.09,string
+Microbiological _ Acute Health_ 2026_04_21,analysis_done,1,9.09,string
+Microbiological _ Acute Health_ 2026_04_21,analysis_failed,1,9.09,float64
+Microbiological _ Acute Health_ 2026_04_21,compliance_percentage,1,9.09,float64
+Microbiological _ Acute Health_ 2026_04_21,compliance_result,1,9.09,string
+NIWIS_GroundwaterStatus_16-Jul-2026 ,recharge__gwr_m3_a,836,42.96,string
+NIWIS_GroundwaterStatus_16-Jul-2026 ,reserve__gwr_m3_a,836,42.96,string
+NIWIS_GroundwaterStatus_16-Jul-2026 ,surplus__gwr_m3_a,836,42.96,string
+NIWIS_Water Supply Reliability - population_16-Jul-2026 ,population_with_access_to_water,9,6.25,string
+NIWIS_Water Supply Reliability - population_16-Jul-2026 ,urban_population,2,1.39,string
+NIWIS_Water Supply Reliability - population_16-Jul-2026 ,urban_population_with_access_to_water,2,1.39,string
+NIWIS_Water Supply Reliability - population_16-Jul-2026 ,urban_population_reliable_supply,2,1.39,string
+NIWIS_Water Supply Reliability - population_16-Jul-2026 ,urban_population_reliable_supply_1,2,1.39,string
+NIWIS_Water Supply Reliability - population_16-Jul-2026 ,rural_population,7,4.86,string
+NIWIS_Water Supply Reliability - population_16-Jul-2026 ,rural_population_with_access_to_water,7,4.86,string
+NIWIS_Water Supply Reliability - population_16-Jul-2026 ,rural_population_reliable_supply,7,4.86,string
+NIWIS_Water Supply Reliability - population_16-Jul-2026 ,rural_population_reliable_supply_1,7,4.86,string
+Operational_ 2026_04_21,time_frame,1,9.09,string
+Operational_ 2026_04_21,unnamed__2,10,90.91,string
+Operational_ 2026_04_21,risk_type,1,9.09,string
+Operational_ 2026_04_21,analysis_done,1,9.09,string
+Operational_ 2026_04_21,analysis_failed,1,9.09,float64
+Operational_ 2026_04_21,compliance_percentage,1,9.09,float64
+Operational_ 2026_04_21,compliance_result,1,9.09,string
+People Served with Water_ 2026_04_21,time_frame,1,9.09,string
+People Served with Water_ 2026_04_21,unnamed__2,10,90.91,string
+People Served with Water_ 2026_04_21,population_served_with_water_1994_to_april_2025,1,9.09,string
+People Served with Water_ 2026_04_21,population_served_with_water_201415,2,18.18,Int64
+People Served with Water_ 2026_04_21,population_served_with_water_201516,1,9.09,string
+People Served with Water_ 2026_04_21,population_served_with_water_201617,1,9.09,string
+People Served with Water_ 2026_04_21,population_served_with_water_201718,1,9.09,string
+People Served with Water_ 2026_04_21,population_served_with_water_201819,1,9.09,string
+People Served with Water_ 2026_04_21,population_served_with_water_201920,1,9.09,string
+People Served with Water_ 2026_04_21,population_served_with_water_202021,1,9.09,string
+People Served with Water_ 2026_04_21,population_served_with_water_202122,1,9.09,float64
+People Served with Water_ 2026_04_21,population_served_with_water_202223,1,9.09,string
+People Served with Water_ 2026_04_21,population_served_with_water_202324,1,9.09,string
+People Served with Water_ 2026_04_21,population_served_with_water_202425,1,9.09,string
+People Served with Water_ 2026_04_21,population_served_with_water_202526,1,9.09,string
+People Served with Water_ 2026_04_21,planned_population_to_be_served_202627,1,9.09,string
+Piped Water Households _ 2026_04_21,time_frame,1,10.0,string
+Piped Water Households _ 2026_04_21,unnamed__2,9,90.0,string
+Piped Water Households _ 2026_04_21,piped__tap__water_inside_dwelling_institution,1,10.0,string
+Piped Water Households _ 2026_04_21,piped__tap__water_inside_yard,1,10.0,string
+Piped Water Households _ 2026_04_21,piped__tap__water_on_community_stand__distance_less_than_200m_fr,1,10.0,string
+Piped Water Households _ 2026_04_21,piped__tap__water_on_community_stand__distance_between_200m_and,1,10.0,string
+Piped Water Households _ 2026_04_21,piped__tap__water_on_community_stand__distance_between_500m_and,1,10.0,string
+Piped Water Households _ 2026_04_21,piped__tap__water_on_community_stand__distance_greater_than_1000,1,10.0,string
+Piped Water Households _ 2026_04_21,no_access_to_piped__tap__water,1,10.0,string
+Piped Water Households _ 2026_04_21,unspecified,1,10.0,float64
+Piped Water Households _ 2026_04_21,not_applicable,1,10.0,float64
+Potable Systems_ 2026_04_21,time_frame,1,1.64,string
+Potable Systems_ 2026_04_21,unnamed__2,60,98.36,string
+Potable Systems_ 2026_04_21,system_name,1,1.64,string
+Potable Systems_ 2026_04_21,system_area,1,1.64,string
+Potable Systems_ 2026_04_21,population_in_system,1,1.64,string
+Potable Systems_ 2026_04_21,households_in_system,1,1.64,string
+Potable Systems_ 2026_04_21,households_with_access_to_rdp_water,1,1.64,string
+Potable Systems_ 2026_04_21,households_with_access_to_reliable_water,1,1.64,string
+Potable Systems_ 2026_04_21,drinking_water_quality_percentage,1,1.64,float64
+Potable Systems_ 2026_04_21,latest_blue_drop_score,1,1.64,float64
+Protests Identified by Municipal IQ_ 2026_04_21,time_frame,1,9.09,string
+Protests Identified by Municipal IQ_ 2026_04_21,unnamed__2,10,90.91,string
+Protests Identified by Municipal IQ_ 2026_04_21,total_protests,1,9.09,float64
+Protests Identified by Municipal IQ_ 2026_04_21,informal,1,9.09,float64
+Protests Identified by Municipal IQ_ 2026_04_21,violent,1,9.09,float64
+Protests Identified by Municipal IQ_ 2026_04_21,xenophobia,1,9.09,float64
+Protests Identified by Municipal IQ_ 2026_04_21,criminality,1,9.09,float64
+Protests Identified by Municipal IQ_ 2026_04_21,corruption,1,9.09,float64
+Protests Identified by Municipal IQ_ 2026_04_21,councillor,1,9.09,float64
+Protests Identified by Municipal IQ_ 2026_04_21,water,1,9.09,float64
+Protests Identified by Municipal IQ_ 2026_04_21,sanitation,1,9.09,float64
+Protests Identified by Municipal IQ_ 2026_04_21,electricity,1,9.09,float64
+Protests Identified by Municipal IQ_ 2026_04_21,refuse_removal,1,9.09,float64
+Protests Identified by Municipal IQ_ 2026_04_21,roads,1,9.09,float64
+Protests Identified by Municipal IQ_ 2026_04_21,housing,1,9.09,float64
+Residential Tariffs_ 2026_04_21,time_frame,1,9.09,string
+Residential Tariffs_ 2026_04_21,unnamed__2,10,90.91,string
+Residential Tariffs_ 2026_04_21,tariff_0_6kl__incl_vat,1,9.09,string
+Residential Tariffs_ 2026_04_21,tariff_6_20kl__incl_vat,1,9.09,string
+Residential Tariffs_ 2026_04_21,tariff_20_60kl__incl_vat,1,9.09,string
+Residential Tariffs_ 2026_04_21,tariff__60kl__incl_vat,1,9.09,string
+Source of Water Households _ 2026_04_21,time_frame,1,10.0,string
+Source of Water Households _ 2026_04_21,unnamed__2,9,90.0,string
+Source of Water Households _ 2026_04_21,regional_local_water_scheme__operated_by_municipality_or_other_w,1,10.0,string
+Source of Water Households _ 2026_04_21,borehole,1,10.0,string
+Source of Water Households _ 2026_04_21,spring,1,10.0,string
+Source of Water Households _ 2026_04_21,rain_water_tank,1,10.0,string
+Source of Water Households _ 2026_04_21,dam_pool_stagnant_water,1,10.0,string
+Source of Water Households _ 2026_04_21,river_stream,1,10.0,string
+Source of Water Households _ 2026_04_21,water_vendor,1,10.0,string
+Source of Water Households _ 2026_04_21,water_tanker,1,10.0,string
+Source of Water Households _ 2026_04_21,other,1,10.0,string
+Source of Water Households _ 2026_04_21,not_applicable,1,10.0,float64
+Surface Water Storage ( 2020 -2026),high,303,80.8,float64
+Surface Water Storage ( 2020 -2026),moderately_high,303,80.8,float64
+Surface Water Storage ( 2020 -2026),normal,303,80.8,float64
+Surface Water Storage ( 2020 -2026),moderately_low,303,80.8,float64
+Surface Water Storage ( 2020 -2026),low,303,80.8,float64
+Surface Water Storage ( 2020 -2026),very_low,303,80.8,float64
+Surface Water Storage ( 2020 -2026),2024_2025,62,16.53,float64
+Surface Water Storage ( 2020 -2026),2025_2026,73,19.47,float64
+Surface Water Storage (2014-2020),high,302,80.75,float64
+Surface Water Storage (2014-2020),moderately_high,302,80.75,float64
+Surface Water Storage (2014-2020),normal,302,80.75,float64
+Surface Water Storage (2014-2020),moderately_low,302,80.75,float64
+Surface Water Storage (2014-2020),low,302,80.75,float64
+Surface Water Storage (2014-2020),very_low,302,80.75,float64
+Surface Water Storage (2014-2020),2018_2019,60,16.04,float64
+Surface Water Storage (2014-2020),2019_2020,99,26.47,float64
+TimeSeries Population_ 2026_04_21,time_frame,1,9.09,string
+TimeSeries Population_ 2026_04_21,unnamed__2,10,90.91,string
+TimeSeries Population_ 2026_04_21,april_1994,1,9.09,string
+TimeSeries Population_ 2026_04_21,april_1995,1,9.09,string
+TimeSeries Population_ 2026_04_21,april_1996,1,9.09,string
+TimeSeries Population_ 2026_04_21,april_1997,1,9.09,string
+TimeSeries Population_ 2026_04_21,april_1998,1,9.09,string
+TimeSeries Population_ 2026_04_21,april_1999,1,9.09,string
+TimeSeries Population_ 2026_04_21,april_2000,1,9.09,string
+TimeSeries Population_ 2026_04_21,april_2001,1,9.09,string
+TimeSeries Population_ 2026_04_21,april_2002,1,9.09,string
+TimeSeries Population_ 2026_04_21,april_2004,1,9.09,string
+TimeSeries Population_ 2026_04_21,april_2005,1,9.09,string
+TimeSeries Population_ 2026_04_21,april_2006,1,9.09,string
+TimeSeries Population_ 2026_04_21,april_2007,1,9.09,string
+TimeSeries Population_ 2026_04_21,april_2008,1,9.09,string
+TimeSeries Population_ 2026_04_21,april_2009,1,9.09,string
+TimeSeries Population_ 2026_04_21,april_2010,1,9.09,string
+TimeSeries Population_ 2026_04_21,april_2011,1,9.09,string
+TimeSeries Population_ 2026_04_21,april_2012,1,9.09,string
+TimeSeries Population_ 2026_04_21,april_2013,1,9.09,string
+TimeSeries Population_ 2026_04_21,april_2014,1,9.09,string
+TimeSeries Population_ 2026_04_21,april_2015,1,9.09,string
+TimeSeries Population_ 2026_04_21,april_2016,1,9.09,string
+TimeSeries Population_ 2026_04_21,april_2017,1,9.09,string
+TimeSeries Population_ 2026_04_21,april_2018,1,9.09,string
+TimeSeries Population_ 2026_04_21,april_2019,1,9.09,string
+TimeSeries Population_ 2026_04_21,april_2020,1,9.09,string
+TimeSeries Population_ 2026_04_21,april_2021,1,9.09,string
+TimeSeries Population_ 2026_04_21,april_2022,1,9.09,string
+TimeSeries Population_ 2026_04_21,april_2023,1,9.09,string
+TimeSeries Population_ 2026_04_21,april_2024,1,9.09,string
+TimeSeries Population_ 2026_04_21,april_2025,1,9.09,string
+TimeSeries Population_ 2026_04_21,april_2026,1,9.09,string
+Timeseries Households_ 2026_04_21,time_frame,1,9.09,string
+Timeseries Households_ 2026_04_21,unnamed__2,10,90.91,string
+Timeseries Households_ 2026_04_21,april_1994,1,9.09,string
+Timeseries Households_ 2026_04_21,april_1995,1,9.09,string
+Timeseries Households_ 2026_04_21,april_1996,1,9.09,string
+Timeseries Households_ 2026_04_21,april_1997,1,9.09,string
+Timeseries Households_ 2026_04_21,april_1998,1,9.09,string
+Timeseries Households_ 2026_04_21,april_1999,1,9.09,string
+Timeseries Households_ 2026_04_21,april_2000,1,9.09,string
+Timeseries Households_ 2026_04_21,april_2001,1,9.09,string
+Timeseries Households_ 2026_04_21,april_2002,1,9.09,string
+Timeseries Households_ 2026_04_21,april_2004,1,9.09,string
+Timeseries Households_ 2026_04_21,april_2005,1,9.09,string
+Timeseries Households_ 2026_04_21,april_2006,1,9.09,string
+Timeseries Households_ 2026_04_21,april_2007,1,9.09,string
+Timeseries Households_ 2026_04_21,april_2008,1,9.09,string
+Timeseries Households_ 2026_04_21,april_2009,1,9.09,string
+Timeseries Households_ 2026_04_21,april_2010,1,9.09,string
+Timeseries Households_ 2026_04_21,april_2011,1,9.09,string
+Timeseries Households_ 2026_04_21,april_2012,1,9.09,string
+Timeseries Households_ 2026_04_21,april_2013,1,9.09,string
+Timeseries Households_ 2026_04_21,april_2014,1,9.09,string
+Timeseries Households_ 2026_04_21,april_2015,1,9.09,string
+Timeseries Households_ 2026_04_21,april_2016,1,9.09,string
+Timeseries Households_ 2026_04_21,april_2017,1,9.09,string
+Timeseries Households_ 2026_04_21,april_2018,1,9.09,string
+Timeseries Households_ 2026_04_21,april_2019,1,9.09,string
+Timeseries Households_ 2026_04_21,april_2020,1,9.09,string
+Timeseries Households_ 2026_04_21,april_2021,1,9.09,string
+Timeseries Households_ 2026_04_21,april_2022,1,9.09,string
+Timeseries Households_ 2026_04_21,april_2023,1,9.09,string
+Timeseries Households_ 2026_04_21,april_2024,1,9.09,string
+Timeseries Households_ 2026_04_21,april_2025,1,9.09,string
+Timeseries Households_ 2026_04_21,april_2026,1,9.09,string
+Total Households_ 2026_04_21,time_frame,1,9.09,string
+Total Households_ 2026_04_21,unnamed__2,10,90.91,string
+Total Households_ 2026_04_21,total_households,1,9.09,string
+Total Households_ 2026_04_21,total_population,1,9.09,string
+Total Households_ 2026_04_21,hh_density,1,9.09,float64
+Total Households_ 2026_04_21,urban_households,1,9.09,string
+Total Households_ 2026_04_21,rural_households,1,9.09,string
+Total Population_ 2026_04_21,time_frame,1,9.09,string
+Total Population_ 2026_04_21,unnamed__2,10,90.91,string
+Total Population_ 2026_04_21,total_population,1,9.09,string
+Total Population_ 2026_04_21,total_households,1,9.09,string
+Total Population_ 2026_04_21,hh_density,1,9.09,float64
+Total Population_ 2026_04_21,urban_population,1,9.09,string
+Total Population_ 2026_04_21,rural_population,1,9.09,string
+Vulnerability Score Per leg_ 2026_04_21,time_frame,1,9.09,string
+Vulnerability Score Per leg_ 2026_04_21,unnamed__2,10,90.91,string
+Vulnerability Score Per leg_ 2026_04_21,1__water_services_planning,1,9.09,float64
+Vulnerability Score Per leg_ 2026_04_21,4__technical_staff_capacity__numbers,1,9.09,float64
+Vulnerability Score Per leg_ 2026_04_21,6__water_conservation___water_demand_management__wc_wdm,1,9.09,float64
+Vulnerability Score Per leg_ 2026_04_21,7__drinking_water_safety___regulatory_compliance,1,9.09,float64
+Vulnerability Score Per leg_ 2026_04_21,10__infrastructure_asset_management__iam,1,9.09,float64
+Vulnerability Score Per leg_ 2026_04_21,11__operation___maintenance__o_m__of_assets,1,9.09,float64
+Water demand growth_ 2026_04_21,time_frame,1,9.09,string
+Water demand growth_ 2026_04_21,unnamed__2,10,90.91,string
+Water demand growth_ 2026_04_21,water_demand_growth,1,9.09,float64
+Water demand growth_ 2026_04_21,non_revenue_water,1,9.09,float64
+Water demand growth_ 2026_04_21,water_losses,1,9.09,float64
+Water demand growth_ 2026_04_21,system_input_volume__litres,1,9.09,string
+Water demand growth_ 2026_04_21,revenue_water__litres,1,9.09,string
+Water demand growth_ 2026_04_21,non_revenue_water__litres,1,9.09,string
+Water demand growth_ 2026_04_21,water_losses__litres,1,9.09,string
+Weather,prcp,13284,62.36,float64
+Weather,prcp_attributes,13284,62.36,string
+Weather,tmax,1640,7.7,float64
+Weather,tmax_attributes,1640,7.7,string
+Weather,tmin,4499,21.12,float64
+Weather,tmin_attributes,4499,21.12,string

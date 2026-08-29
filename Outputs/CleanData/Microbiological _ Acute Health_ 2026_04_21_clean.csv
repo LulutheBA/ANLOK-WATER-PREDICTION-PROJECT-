@@ -1,0 +1,12 @@
+region,time_frame,unnamed__2,risk_type,analysis_done,analysis_failed,compliance_percentage,compliance_result
+City of Johannesburg Metropolitan Municipality,2 026,Unknown,Microbiological : Acute Health,1 159,13.0,98.88,Good
+City of Tshwane Metropolitan Municipality,2 026,Unknown,Microbiological : Acute Health,377,59.0,84.35,Bad
+Ekurhuleni Metropolitan Municipality,2 026,Unknown,Microbiological : Acute Health,819,9.0,98.9,Good
+Emfuleni,2 026,Unknown,Microbiological : Acute Health,0,0.0,0.0,Bad
+Lesedi,2 026,Unknown,Microbiological : Acute Health,54,0.0,100.0,Excellent
+Merafong City,2 026,Unknown,Microbiological : Acute Health,95,1.0,98.95,Good
+Midvaal,2 026,Unknown,Microbiological : Acute Health,92,2.0,97.83,Good
+Mogale City,2 026,Unknown,Microbiological : Acute Health,346,24.0,93.06,Bad
+Rand West City,2 026,Unknown,Microbiological : Acute Health,0,0.0,0.0,Bad
+Gauteng,2 026,Unknown,Microbiological : Acute Health,2 942,108.0,96.33,Poor
+<b>Subject Area: Water Quality Management</b><br />Water Quality Management theme reports on all regulatory activities related to drinking water quality as well as waste water effluent quality. Key areas included are monitoring compliance linked to drinking water or waste water effluent compliance.<br /><br /><b>Data Topic : Drinking Water Quality</b><br />Drinking Water Quality<br /><br /><b>Data Topic Detail:</b> Microbiological : Acute Health<br />,Unknown,"<b>Data Source:</b> <a style=""font-weight: bold;color:red;"" href=""http://www.dwa.gov.za/Dir_WS/DWQR"" target=""_blank"" >DWA Bluedrop System</a><br /><b>Update Frequency:</b> Annually<br /><b>Time Frame:</b> 2026<br /><b>Level Of Confidence:</b> 95 Percent",Unknown,Unknown,5.5,97.08,Unknown

@@ -1,0 +1,69 @@
+Dataset,Column,Observations,IQR Outliers,IQR Outlier %,Z-Score Outliers,Z-Score Outlier %,IQR Lower Bound,IQR Upper Bound
+Drinking Water Quality Compliance - SANS 241 _2006 - National [From_ 2022-07-01 To_ 2026-06-30],sans_241__2006,4,0,0.0,0,0.0,89.9280608531047,100.87437535033423
+Households Served with Water_ 2026_04_21,households_served_with_water_201415,11,1,9.09,0,0.0,-216.0,360.0
+Households Served with Water_ 2026_04_21,households_served_with_water_202122,11,0,0.0,0,0.0,0.0,0.0
+Institutional Compliance_ 2026_04_21,potable_water_compliance_percentage,11,2,18.18,0,0.0,80.09,115.33000000000001
+Institutional Compliance_ 2026_04_21,effluent_water_compliance_percentage,11,0,0.0,0,0.0,42.747499999999974,112.68750000000003
+Microbiological _ Acute Health_ 2026_04_21,analysis_failed,11,2,18.18,0,0.0,-26.5,45.5
+Microbiological _ Acute Health_ 2026_04_21,compliance_percentage,11,2,18.18,0,0.0,73.4275,114.1675
+NIWIS_GroundwaterStatus_16-Jul-2026 ,reserve_study,1946,0,0.0,0,0.0,-1.5,2.5
+NIWIS_RWT_16-Jul-2026 ,domestic_and_industry_c_m3,9,0,0.0,0,0.0,0.6799999999999993,8.360000000000001
+NIWIS_RWT_16-Jul-2026 ,irrigation_c_m3,9,1,11.11,0,0.0,1.3500000000000003,4.79
+NIWIS_RWT_16-Jul-2026 ,forestry_c_m3,9,1,11.11,0,0.0,0.74,4.5
+Operational_ 2026_04_21,analysis_failed,11,2,18.18,0,0.0,-109.75,192.25
+Operational_ 2026_04_21,compliance_percentage,11,2,18.18,0,0.0,77.41,111.16999999999999
+People Served with Water_ 2026_04_21,population_served_with_water_201415,11,2,18.18,0,0.0,-323.25,538.75
+People Served with Water_ 2026_04_21,population_served_with_water_202122,11,0,0.0,0,0.0,0.0,0.0
+Piped Water Households _ 2026_04_21,unspecified,10,0,0.0,0,0.0,0.0,0.0
+Piped Water Households _ 2026_04_21,not_applicable,10,0,0.0,0,0.0,0.0,0.0
+Potable Systems_ 2026_04_21,drinking_water_quality_percentage,61,8,13.11,4,6.56,95.975,102.41499999999999
+Potable Systems_ 2026_04_21,latest_blue_drop_score,61,0,0.0,0,0.0,24.860000000000007,128.06
+Protests Identified by Municipal IQ_ 2026_04_21,total_protests,11,1,9.09,0,0.0,-97.25,184.75
+Protests Identified by Municipal IQ_ 2026_04_21,informal,11,2,18.18,0,0.0,-43.75,82.25
+Protests Identified by Municipal IQ_ 2026_04_21,violent,11,2,18.18,0,0.0,-75.75,142.25
+Protests Identified by Municipal IQ_ 2026_04_21,xenophobia,11,1,9.09,0,0.0,-3.25,6.75
+Protests Identified by Municipal IQ_ 2026_04_21,criminality,11,2,18.18,0,0.0,-6.0,14.0
+Protests Identified by Municipal IQ_ 2026_04_21,corruption,11,2,18.18,0,0.0,-6.75,15.25
+Protests Identified by Municipal IQ_ 2026_04_21,councillor,11,1,9.09,0,0.0,-30.75,59.25
+Protests Identified by Municipal IQ_ 2026_04_21,water,11,1,9.09,0,0.0,-34.0,62.0
+Protests Identified by Municipal IQ_ 2026_04_21,sanitation,11,1,9.09,0,0.0,-20.0,36.0
+Protests Identified by Municipal IQ_ 2026_04_21,electricity,11,2,18.18,0,0.0,-40.0,72.0
+Protests Identified by Municipal IQ_ 2026_04_21,refuse_removal,11,2,18.18,0,0.0,-3.0,5.0
+Protests Identified by Municipal IQ_ 2026_04_21,roads,11,1,9.09,0,0.0,-9.75,16.25
+Protests Identified by Municipal IQ_ 2026_04_21,housing,11,1,9.09,0,0.0,-42.5,77.5
+Source of Water Households _ 2026_04_21,not_applicable,10,0,0.0,0,0.0,0.0,0.0
+Surface Water Storage ( 2020 -2026),high,375,70,18.67,13,3.47,96.64,96.64
+Surface Water Storage ( 2020 -2026),moderately_high,375,72,19.2,12,3.2,88.39750000000001,88.39750000000001
+Surface Water Storage ( 2020 -2026),normal,375,72,19.2,14,3.73,85.739,85.739
+Surface Water Storage ( 2020 -2026),moderately_low,375,72,19.2,10,2.67,79.11600000000001,79.11600000000001
+Surface Water Storage ( 2020 -2026),low,375,72,19.2,15,4.0,69.28750000000001,69.28750000000001
+Surface Water Storage ( 2020 -2026),very_low,375,72,19.2,18,4.8,64.29999999999998,64.29999999999998
+Surface Water Storage ( 2020 -2026),2024_2025,375,4,1.07,0,0.0,59.05950026756214,112.98885511493312
+Surface Water Storage ( 2020 -2026),2025_2026,375,15,4.0,13,3.47,73.21402256763517,106.10805858518623
+Surface Water Storage (2014-2020),high,374,72,19.25,18,4.81,94.245,94.245
+Surface Water Storage (2014-2020),moderately_high,374,72,19.25,18,4.81,87.03875,87.03875
+Surface Water Storage (2014-2020),normal,374,72,19.25,16,4.28,85.80699999999999,85.80699999999999
+Surface Water Storage (2014-2020),moderately_low,374,72,19.25,16,4.28,79.695,79.695
+Surface Water Storage (2014-2020),low,374,72,19.25,16,4.28,72.3475,72.3475
+Surface Water Storage (2014-2020),very_low,374,72,19.25,13,3.48,64.2245,64.2245
+Surface Water Storage (2014-2020),2018_2019,374,0,0.0,0,0.0,45.708253746338585,96.48733731627345
+Surface Water Storage (2014-2020),2019_2020,374,0,0.0,0,0.0,48.08313331214485,88.12682368434032
+Total Households_ 2026_04_21,hh_density,11,0,0.0,0,0.0,2.4300000000000006,3.3899999999999997
+Total Population_ 2026_04_21,hh_density,11,0,0.0,0,0.0,2.4300000000000006,3.3899999999999997
+Verified - River Flow ( National ),flow_level,7,1,14.29,0,0.0,5.75,99.75
+Vulnerability Score Per leg_ 2026_04_21,1__water_services_planning,11,0,0.0,0,0.0,6.5,142.5
+Vulnerability Score Per leg_ 2026_04_21,4__technical_staff_capacity__numbers,11,0,0.0,0,0.0,1.5,117.5
+Vulnerability Score Per leg_ 2026_04_21,6__water_conservation___water_demand_management__wc_wdm,11,0,0.0,0,0.0,38.2,105.08
+Vulnerability Score Per leg_ 2026_04_21,7__drinking_water_safety___regulatory_compliance,11,0,0.0,0,0.0,29.0,125.0
+Vulnerability Score Per leg_ 2026_04_21,10__infrastructure_asset_management__iam,11,0,0.0,0,0.0,18.497499999999988,115.83750000000002
+Vulnerability Score Per leg_ 2026_04_21,11__operation___maintenance__o_m__of_assets,11,0,0.0,0,0.0,5.0,105.0
+Water demand growth_ 2026_04_21,water_demand_growth,11,2,18.18,0,0.0,-6.092499999999999,8.1275
+Water demand growth_ 2026_04_21,non_revenue_water,11,0,0.0,0,0.0,16.267500000000005,49.84749999999999
+Water demand growth_ 2026_04_21,water_losses,11,1,9.09,0,0.0,18.119999999999997,44.04
+Weather,latitude,21301,0,0.0,0,0.0,-26.471999999999994,-25.584000000000003
+Weather,longitude,21301,0,0.0,0,0.0,28.173499999999997,28.289499999999997
+Weather,elevation,21301,0,0.0,0,0.0,1208.8500000000001,1985.2499999999998
+Weather,prcp,21301,7521,35.31,373,1.75,0.5,0.5
+Weather,tavg,21301,40,0.19,33,0.15,4.400000000000004,30.799999999999997
+Weather,tmax,21301,113,0.53,51,0.24,13.150000000000004,37.55
+Weather,tmin,21301,236,1.11,50,0.23,0.3500000000000014,23.15

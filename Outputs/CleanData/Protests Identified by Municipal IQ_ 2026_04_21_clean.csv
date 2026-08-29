@@ -1,0 +1,12 @@
+region,time_frame,unnamed__2,total_protests,informal,violent,xenophobia,criminality,corruption,councillor,water,sanitation,electricity,refuse_removal,roads,housing
+City of Johannesburg Metropolitan Municipality,2 018,Unknown,174.0,101.0,143.0,4.0,17.0,5.0,35.0,37.0,26.0,76.0,7.0,9.0,77.0
+City of Tshwane Metropolitan Municipality,2 018,Unknown,85.0,28.0,64.0,2.0,7.0,16.0,33.0,36.0,18.0,29.0,2.0,11.0,38.0
+Ekurhuleni Metropolitan Municipality,2 018,Unknown,73.0,42.0,57.0,3.0,6.0,9.0,18.0,16.0,12.0,31.0,1.0,2.0,27.0
+Emfuleni,2 018,Unknown,15.0,3.0,13.0,1.0,2.0,2.0,4.0,3.0,1.0,1.0,0.0,4.0,4.0
+Lesedi,2 018,Unknown,2.0,0.0,2.0,2.0,2.0,0.0,1.0,0.0,0.0,2.0,0.0,0.0,0.0
+Merafong City,2 018,Unknown,3.0,0.0,1.0,0.0,1.0,1.0,2.0,1.0,1.0,1.0,0.0,0.0,2.0
+Midvaal,2 018,Unknown,6.0,6.0,4.0,0.0,1.0,0.0,0.0,2.0,1.0,2.0,0.0,0.0,3.0
+Mogale City,2 018,Unknown,11.0,5.0,8.0,0.0,0.0,2.0,5.0,3.0,2.0,5.0,0.0,2.0,2.0
+Rand West City,2 018,Unknown,12.0,4.0,12.0,3.0,3.0,2.0,7.0,2.0,3.0,6.0,2.0,0.0,3.0
+Gauteng,2 018,Unknown,381.0,189.0,304.0,15.0,39.0,37.0,105.0,100.0,64.0,153.0,12.0,28.0,156.0
+<b>Subject Area: HotSpots</b><br />This theme currently reports on public unrest through protests and highlights areas where serious protests have been experienced with an indication of the drivers leading to the unrest. Future functionality will include the ability to predict where future protests might be expected.<br /><br /><b>Data Topic : Protests</b><br />Protests<br /><br /><b>Data Topic Detail:</b> Protests Identified by Municipal IQ<br />,Unknown,"<b>Data Source:</b> <a style=""font-weight: bold;color:red;"" href=""http://www.municipaliq.co.za/"" target=""_blank"" >Municipal IQ</a><br /><b>Update Frequency:</b> Annually<br /><b>Time Frame:</b> 2018<br /><b>Level Of Confidence:</b> 95 Percent",13.5,5.5,12.5,2.0,2.5,2.0,6.0,3.0,2.5,5.5,0.5,2.0,3.5
