@@ -1,2 +1,2 @@
 Dataset,Target,Problem_Type,Model,MAE,RMSE,R2,Test_Rows,MAPE
-Weather_engineered,rainfall_7day,regression,Linear Regression,0.00283722187393642,0.10915003609722781,0.9999816031302649,4261,88762818877.75665
+Weather_engineered,rainfall_7day,regression,Linear Regression,0.966206099602609,3.146690107109473,0.9775209818141664,4261,0.13910294084591426

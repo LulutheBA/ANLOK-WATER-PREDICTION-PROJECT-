@@ -9,5 +9,5 @@
     "train_rows": 12780,
     "validation_rows": 4260,
     "test_rows": 4261,
-    "feature_count": 73
+    "feature_count": 69
 }
