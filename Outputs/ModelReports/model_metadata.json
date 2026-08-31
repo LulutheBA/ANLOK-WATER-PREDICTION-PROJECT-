@@ -1,0 +1,13 @@
+{
+    "project": "ANLOK Water Prediction Project",
+    "notebook": "Notebook 4",
+    "dataset": "Weather_engineered",
+    "target": "rainfall_7day",
+    "problem_type": "regression",
+    "model": "Linear Regression",
+    "random_state": 42,
+    "train_rows": 12780,
+    "validation_rows": 4260,
+    "test_rows": 4261,
+    "feature_count": 73
+}
