@@ -1,0 +1,20 @@
+File,Type,Size,Rows,Status
+Visualisations/absolute_error_distribution.png,PNG,73.5 KB,-,PASS
+Visualisations/actual_vs_predicted.png,PNG,154.5 KB,-,PASS
+Visualisations/feature_importance.png,PNG,174.6 KB,-,PASS
+Visualisations/model_comparison_mae.png,PNG,112.8 KB,-,PASS
+Visualisations/model_comparison_r2.png,PNG,110.3 KB,-,PASS
+Visualisations/model_comparison_rmse.png,PNG,118.2 KB,-,PASS
+Visualisations/residual_distribution.png,PNG,60.4 KB,-,PASS
+Visualisations/residuals_vs_predicted.png,PNG,114.6 KB,-,PASS
+best_model_predictions.csv,CSV,5.9 KB,22,PASS
+best_model_summary.csv,CSV,0.3 KB,1,PASS
+feature_importance.csv,CSV,1.0 KB,12,PASS
+final_metrics.json,JSON,0.6 KB,-,PASS
+final_model_metadata.json,JSON,1.2 KB,-,PASS
+final_project_summary.md,MD,4.1 KB,-,PASS
+gauteng_municipality_predictions.csv,CSV,0.6 KB,9,PASS
+largest_prediction_errors.csv,CSV,2.7 KB,10,PASS
+model_comparison.csv,CSV,0.7 KB,6,PASS
+output_audit.csv,CSV,0.9 KB,18,PASS
+project_findings.json,JSON,1.5 KB,-,PASS

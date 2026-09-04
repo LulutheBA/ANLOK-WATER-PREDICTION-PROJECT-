@@ -1,0 +1,38 @@
+{
+  "project": "ANLOK Water Prediction Project",
+  "notebook": "Notebook 5 \u2014 Final Analysis",
+  "source_notebook": "NB4_Production.ipynb",
+  "final_model": "Extra Trees",
+  "model_file": "Outputs/Models/best_model.joblib",
+  "problem_type": "regression",
+  "source_target_column": "population_reliable_supply_1",
+  "model_target": "target_reliable_supply_pct",
+  "true_event_level_outage_target_available": false,
+  "outage_risk_proxy": "100 - predicted_reliable_supply_pct",
+  "test_samples": 22,
+  "features": [
+    "wsa_name",
+    "population",
+    "population_with_access_to_water",
+    "urban_population",
+    "urban_population_with_access_to_water",
+    "rural_population",
+    "rural_population_with_access_to_water",
+    "log_population",
+    "water_access_rate_pct",
+    "water_access_gap_pct",
+    "urban_population_share_pct",
+    "rural_population_share_pct"
+  ],
+  "number_of_predictors": 12,
+  "metrics": {
+    "MAE": 7.8563237995449136,
+    "MSE": 106.45730041724823,
+    "RMSE": 10.317814711325662,
+    "R2": 0.553584011419614,
+    "MAPE_pct": 11.756574668798379
+  },
+  "feature_importance_source": "Notebook 4 permutation importance",
+  "saved_notebook4_predictions_matched_recomputation": true,
+  "generated_utc": "2026-09-04T06:07:53.366668+00:00"
+}

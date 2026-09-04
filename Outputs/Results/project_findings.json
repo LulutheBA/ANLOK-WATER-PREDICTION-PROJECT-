@@ -1,0 +1,34 @@
+{
+  "project": "ANLOK Water Prediction Project",
+  "problem_type": "regression",
+  "prediction_target": "target_reliable_supply_pct",
+  "source_target_column": "population_reliable_supply_1",
+  "what_the_model_predicts": "Municipal/service-area population reliable water-supply percentage.",
+  "what_the_model_does_not_predict": "Verified future outage events, outage duration, or outage probability.",
+  "best_model": "Extra Trees",
+  "test_observations": 22,
+  "predictors": 12,
+  "final_test_metrics": {
+    "MAE": 7.8563237995449136,
+    "MSE": 106.45730041724823,
+    "RMSE": 10.317814711325662,
+    "R2": 0.553584011419614,
+    "MAPE_pct": 11.756574668798379
+  },
+  "performance_assessment": "moderate",
+  "top_features": [
+    "water_access_rate_pct",
+    "water_access_gap_pct",
+    "rural_population_share_pct",
+    "urban_population_share_pct",
+    "rural_population"
+  ],
+  "largest_test_error": {
+    "area": "Mohokare",
+    "absolute_error_percentage_points": 31.163206616649703
+  },
+  "risk_proxy_definition": "100 - predicted_reliable_supply_pct",
+  "decision_support_interpretation": "The model can help prioritise areas for further investigation by estimating water-service reliability and a complementary risk proxy. It should not replace engineering inspection, operational monitoring, or verified outage records.",
+  "weather_in_primary_model": false,
+  "weather_exclusion_reason": "No validated municipality-date key links daily weather to the cross-sectional reliability target."
+}

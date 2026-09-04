@@ -1,0 +1,19 @@
+{
+  "project": "ANLOK Water Prediction Project",
+  "problem_type": "regression",
+  "best_model": "Extra Trees",
+  "test_samples": 22,
+  "metrics": {
+    "MAE": 7.8563237995449136,
+    "MSE": 106.45730041724823,
+    "RMSE": 10.317814711325662,
+    "R2": 0.553584011419614,
+    "MAPE_pct": 11.756574668798379
+  },
+  "metric_interpretation": {
+    "MAE": "Average absolute error in reliable-supply percentage points.",
+    "RMSE": "Root mean squared error; gives larger errors more weight.",
+    "R2": "Held-out variance explained relative to a mean baseline.",
+    "MAPE_pct": "Mean absolute percentage error; reported only when actual targets are non-zero."
+  }
+}

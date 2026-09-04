@@ -1,0 +1,2 @@
+model,problem_type,target,source_target,test_observations,number_of_predictors,MAE,MSE,RMSE,R2,MAPE_pct,outage_risk_proxy
+Extra Trees,regression,target_reliable_supply_pct,population_reliable_supply_1,22,12,7.8563237995449136,106.45730041724823,10.317814711325662,0.553584011419614,11.756574668798379,100 - predicted_reliable_supply_pct
