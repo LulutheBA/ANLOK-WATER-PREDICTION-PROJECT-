@@ -1,0 +1,52 @@
+{
+  "project": "ANLOK Water Prediction Project",
+  "notebook": "Notebook 4",
+  "random_state": 42,
+  "dataset_used": "Outputs/FeatureEngineering/NIWIS_Water_Supply_Reliability_-_population_16-Jul-2026__engineered.csv",
+  "raw_target_column": "population_reliable_supply_1",
+  "model_target": "target_reliable_supply_pct",
+  "problem_type": "regression",
+  "true_outage_target_available": false,
+  "outage_risk_proxy": "100 - predicted_reliable_supply_pct",
+  "best_model": "Extra Trees",
+  "validation_selection_metric": "RMSE",
+  "best_validation_RMSE": 12.91260285388867,
+  "final_test_metrics": {
+    "MAE": 7.856323799544911,
+    "RMSE": 10.317814711325662,
+    "R2": 0.553584011419614,
+    "MAPE_pct": 11.756574668798372
+  },
+  "total_observations": 144,
+  "training_rows": 100,
+  "validation_rows": 22,
+  "test_rows": 22,
+  "features_before_engineering": 12,
+  "features_after_engineering_before_preprocessing": 12,
+  "most_important_features": [
+    "water_access_rate_pct",
+    "water_access_gap_pct",
+    "rural_population_share_pct",
+    "urban_population_share_pct",
+    "rural_population",
+    "rural_population_with_access_to_water",
+    "population",
+    "wsa_name",
+    "population_with_access_to_water",
+    "urban_population"
+  ],
+  "geographic_features_improved_validation_RMSE": true,
+  "weather_used_in_primary_model": false,
+  "weather_reason": "No validated municipality-date key links daily weather to the cross-sectional reliability target.",
+  "leakage_columns_removed": [
+    "population_reliable_supply",
+    "population_reliable_supply_1",
+    "urban_population_reliable_supply",
+    "urban_population_reliable_supply_1",
+    "rural_population_reliable_supply",
+    "rural_population_reliable_supply_1",
+    "target_reliable_supply_pct"
+  ],
+  "constant_columns_removed": [],
+  "identifier_columns_removed": []
+}

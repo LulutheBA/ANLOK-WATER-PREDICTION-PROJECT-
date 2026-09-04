@@ -1,0 +1,143 @@
+feature,importance
+numeric__water_access_gap_pct,0.31485629672739246
+numeric__water_access_rate_pct,0.27838581813211083
+numeric__rural_population_share_pct,0.16628472142325287
+numeric__urban_population_share_pct,0.1153263968712988
+numeric__rural_population,0.051210727189201236
+numeric__rural_population_with_access_to_water,0.024541961017137653
+numeric__population,0.007949813393463137
+numeric__log_population,0.007180529726925621
+numeric__missingindicator_urban_population_with_access_to_water,0.006538840422195789
+numeric__population_with_access_to_water,0.006153440654251112
+numeric__urban_population_with_access_to_water,0.005532974167622011
+numeric__missingindicator_urban_population,0.005486589036900782
+numeric__urban_population,0.005157294777119783
+numeric__missingindicator_urban_population_share_pct,0.005035499637690255
+numeric__missingindicator_rural_population_with_access_to_water,0.0001094373407996836
+numeric__missingindicator_population_with_access_to_water,9.858263922756065e-05
+numeric__missingindicator_water_access_gap_pct,9.517807616382087e-05
+numeric__missingindicator_water_access_rate_pct,3.8611815848572585e-05
+numeric__missingindicator_rural_population,1.7286951397978127e-05
+numeric__missingindicator_rural_population_share_pct,0.0
+categorical__wsa_name_Alfred Nzo,0.0
+categorical__wsa_name_Amajuba,0.0
+categorical__wsa_name_Amathole,0.0
+categorical__wsa_name_Beaufort West,0.0
+categorical__wsa_name_Bela-Bela,0.0
+categorical__wsa_name_Bergrivier,0.0
+categorical__wsa_name_Bitou,0.0
+categorical__wsa_name_Blue Crane Route,0.0
+categorical__wsa_name_Breede Valley,0.0
+categorical__wsa_name_Buffalo City Metropolitan Municipality,0.0
+categorical__wsa_name_Bushbuckridge,0.0
+categorical__wsa_name_Cape Agulhas,0.0
+categorical__wsa_name_Capricorn,0.0
+categorical__wsa_name_Cederberg,0.0
+categorical__wsa_name_Chief Albert Luthuli,0.0
+categorical__wsa_name_Chris Hani,0.0
+categorical__wsa_name_City of Johannesburg Metropolitan Municipality,0.0
+categorical__wsa_name_City of Matlosana,0.0
+categorical__wsa_name_City of Mbombela,0.0
+categorical__wsa_name_City of Tshwane Metropolitan Municipality,0.0
+categorical__wsa_name_Dawid Kruiper,0.0
+categorical__wsa_name_Dihlabeng,0.0
+categorical__wsa_name_Dipaleseng,0.0
+categorical__wsa_name_Dr Beyers Naudé,0.0
+categorical__wsa_name_Dr JS Moroka,0.0
+categorical__wsa_name_Dr Pixley Ka Isaka Seme,0.0
+categorical__wsa_name_Dr Ruth Segomotsi Mompati,0.0
+categorical__wsa_name_Drakenstein,0.0
+categorical__wsa_name_Ekurhuleni Metropolitan Municipality,0.0
+categorical__wsa_name_Emakhazeni,0.0
+categorical__wsa_name_Emalahleni,0.0
+categorical__wsa_name_Emfuleni,0.0
+categorical__wsa_name_Ethekwini Metropolitan Municipality,0.0
+categorical__wsa_name_Ga-Segonyana,0.0
+categorical__wsa_name_Gamagara,0.0
+categorical__wsa_name_George,0.0
+categorical__wsa_name_Govan Mbeki,0.0
+categorical__wsa_name_Hantam,0.0
+categorical__wsa_name_Harry Gwala,0.0
+categorical__wsa_name_Hessequa,0.0
+categorical__wsa_name_JB Marks,0.0
+categorical__wsa_name_Joe Gqabi,0.0
+categorical__wsa_name_Joe Morolong,0.0
+categorical__wsa_name_Kai !Garib,0.0
+categorical__wsa_name_Kamiesberg,0.0
+categorical__wsa_name_Kannaland,0.0
+categorical__wsa_name_Kareeberg,0.0
+categorical__wsa_name_Kgatelopele,0.0
+categorical__wsa_name_Kgetlengrivier,0.0
+categorical__wsa_name_Khai-Ma,0.0
+categorical__wsa_name_Knysna,0.0
+categorical__wsa_name_Kopanong,0.0
+categorical__wsa_name_Kouga,0.0
+categorical__wsa_name_Koukamma,0.0
+categorical__wsa_name_Laingsburg,0.0
+categorical__wsa_name_Langeberg,0.0
+categorical__wsa_name_Lekwa,0.0
+categorical__wsa_name_Lephalale,0.0
+categorical__wsa_name_Lesedi,0.0
+categorical__wsa_name_Letsemeng,0.0
+categorical__wsa_name_Madibeng,0.0
+categorical__wsa_name_Mafube,0.0
+categorical__wsa_name_Magareng,0.0
+categorical__wsa_name_Maluti-A-Phofung,0.0
+categorical__wsa_name_Mangaung Metropolitan Municipality,0.0
+categorical__wsa_name_Mantsopa,0.0
+categorical__wsa_name_Maquassi Hills,0.0
+categorical__wsa_name_Masilonyana,0.0
+categorical__wsa_name_Matjhabeng,0.0
+categorical__wsa_name_Matzikama,0.0
+categorical__wsa_name_Merafong City,0.0
+categorical__wsa_name_Metsimaholo,0.0
+categorical__wsa_name_Midvaal,0.0
+categorical__wsa_name_Mkhondo,0.0
+categorical__wsa_name_Modimolle-Mookgophong,0.0
+categorical__wsa_name_Mogalakwena,0.0
+categorical__wsa_name_Mogale City,0.0
+categorical__wsa_name_Mopani,0.0
+categorical__wsa_name_Moqhaka,0.0
+categorical__wsa_name_Moretele,0.0
+categorical__wsa_name_Mossel Bay,0.0
+categorical__wsa_name_Msukaligwa,0.0
+categorical__wsa_name_Msunduzi,0.0
+categorical__wsa_name_Nala,0.0
+categorical__wsa_name_Nama Khoi,0.0
+categorical__wsa_name_Ndlambe,0.0
+categorical__wsa_name_Nelson Mandela Bay Metropolitan Municipality,0.0
+categorical__wsa_name_Ngaka Modiri Molema,0.0
+categorical__wsa_name_Nketoana,0.0
+categorical__wsa_name_Nkomazi,0.0
+categorical__wsa_name_OR Tambo,0.0
+categorical__wsa_name_Oudtshoorn,0.0
+categorical__wsa_name_Overstrand,0.0
+categorical__wsa_name_Phokwane,0.0
+categorical__wsa_name_Polokwane,0.0
+categorical__wsa_name_Rand West City,0.0
+categorical__wsa_name_Renosterberg,0.0
+categorical__wsa_name_Saldanha Bay,0.0
+categorical__wsa_name_Setsoto,0.0
+categorical__wsa_name_Siyancuma,0.0
+categorical__wsa_name_Siyathemba,0.0
+categorical__wsa_name_Sol Plaatje,0.0
+categorical__wsa_name_Stellenbosch,0.0
+categorical__wsa_name_Steve Tshwete,0.0
+categorical__wsa_name_Sundays River Valley,0.0
+categorical__wsa_name_Swartland,0.0
+categorical__wsa_name_Thaba Chweu,0.0
+categorical__wsa_name_Thabazimbi,0.0
+categorical__wsa_name_Theewaterskloof,0.0
+categorical__wsa_name_Thembisile Hani,0.0
+categorical__wsa_name_Tokologo,0.0
+categorical__wsa_name_Tsantsabane,0.0
+categorical__wsa_name_Tswelopele,0.0
+categorical__wsa_name_Ugu,0.0
+categorical__wsa_name_Umkhanyakude,0.0
+categorical__wsa_name_Umsobomvu,0.0
+categorical__wsa_name_Umzinyathi,0.0
+categorical__wsa_name_Vhembe,0.0
+categorical__wsa_name_Victor Khanye,0.0
+categorical__wsa_name_Witzenberg,0.0
+categorical__wsa_name_Zululand,0.0
+categorical__wsa_name_iLembe,0.0

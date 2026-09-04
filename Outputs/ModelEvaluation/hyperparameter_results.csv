@@ -1,0 +1,6 @@
+model,best_cv_RMSE,validation_RMSE,validation_MAE,validation_R2,best_params
+Extra Trees,12.182240675396013,12.91260285388867,8.865387688457977,0.6262855828853808,"{""model__max_depth"": 4, ""model__max_features"": 0.7, ""model__min_samples_leaf"": 2, ""model__n_estimators"": 400}"
+Gradient Boosting,12.383535681006475,12.944759852442841,8.717096831276995,0.6244219000809977,"{""model__learning_rate"": 0.1, ""model__max_depth"": 1, ""model__min_samples_leaf"": 1, ""model__n_estimators"": 100}"
+Ridge Regression,12.500045030576931,13.112211466454477,9.70453782117637,0.6146421999728915,"{""model__alpha"": 10.0}"
+Random Forest,12.561588688710064,13.852592869791781,10.082088728758192,0.5698950850206366,"{""model__max_depth"": 4, ""model__max_features"": 0.7, ""model__min_samples_leaf"": 4, ""model__n_estimators"": 200}"
+HistGradientBoosting,13.52560210919221,13.918563874768447,10.523218920924178,0.5657887031461124,"{""model__l2_regularization"": 1.0, ""model__learning_rate"": 0.03, ""model__max_iter"": 100, ""model__max_leaf_nodes"": 7}"

@@ -1,0 +1,4 @@
+split,rows,percent_of_total
+Train,100,69.44444444444444
+Validation,22,15.277777777777779
+Final Test,22,15.277777777777779

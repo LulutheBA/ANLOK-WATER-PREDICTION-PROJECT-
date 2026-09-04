@@ -1,0 +1,52 @@
+{
+  "dataset_used": "Outputs/FeatureEngineering/NIWIS_Water_Supply_Reliability_-_population_16-Jul-2026__engineered.csv",
+  "target_variable": "target_reliable_supply_pct",
+  "source_target_column": "population_reliable_supply_1",
+  "target_type": "continuous water-service reliability proxy",
+  "true_water_outage_target_available": false,
+  "observations": 144,
+  "features_before_feature_engineering": 12,
+  "features_after_feature_engineering": 12,
+  "training_size": 100,
+  "validation_size": 22,
+  "test_size": 22,
+  "models_tested": [
+    "Dummy Baseline",
+    "Ridge Regression",
+    "Random Forest",
+    "Gradient Boosting",
+    "HistGradientBoosting",
+    "Extra Trees"
+  ],
+  "best_model": "Extra Trees",
+  "best_validation_performance": {
+    "RMSE": 12.91260285388867
+  },
+  "final_test_performance": {
+    "MAE": 7.856323799544911,
+    "RMSE": 10.317814711325662,
+    "R2": 0.553584011419614,
+    "MAPE_pct": 11.756574668798372
+  },
+  "most_important_features": [
+    "water_access_rate_pct",
+    "water_access_gap_pct",
+    "rural_population_share_pct",
+    "urban_population_share_pct",
+    "rural_population",
+    "rural_population_with_access_to_water",
+    "population",
+    "wsa_name",
+    "population_with_access_to_water",
+    "urban_population"
+  ],
+  "geographic_features_improved_performance": true,
+  "weather_used": false,
+  "output_directories": {
+    "models": "Outputs/Models",
+    "evaluation": "Outputs/ModelEvaluation",
+    "predictions": "Outputs/Predictions",
+    "visualisations": "Outputs/ModelVisualisations",
+    "reports": "Outputs/ModelReports"
+  }
+}

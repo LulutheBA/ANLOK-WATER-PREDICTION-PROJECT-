@@ -1,0 +1,14 @@
+column,dtype,missing,unique_values
+wsa_name,object,0,144
+population,object,0,144
+population_with_access_to_water,object,0,136
+population_reliable_supply,object,0,144
+population_reliable_supply_1,object,0,52
+urban_population,object,0,143
+urban_population_with_access_to_water,object,0,143
+urban_population_reliable_supply,object,0,143
+urban_population_reliable_supply_1,object,0,49
+rural_population,object,0,137
+rural_population_with_access_to_water,object,0,138
+rural_population_reliable_supply,object,0,137
+rural_population_reliable_supply_1,object,0,58

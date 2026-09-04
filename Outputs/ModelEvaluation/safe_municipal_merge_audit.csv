@@ -1,0 +1,13 @@
+dataset,target_key,predictor_key,overlap_count,target_coverage,accepted_for_primary_merge
+Outputs/ModellingData/Households_Served_with_Water__2026_04_21_model_ready.csv,wsa_name,region,9,0.0625,False
+Outputs/ModellingData/Institutional_Compliance__2026_04_21_model_ready.csv,wsa_name,region,9,0.0625,False
+Outputs/ModellingData/Microbiological___Acute_Health__2026_04_21_model_ready.csv,wsa_name,region,9,0.0625,False
+Outputs/ModellingData/Operational__2026_04_21_model_ready.csv,wsa_name,region,9,0.0625,False
+Outputs/ModellingData/People_Served_with_Water__2026_04_21_model_ready.csv,wsa_name,region,9,0.0625,False
+Outputs/ModellingData/Piped_Water_Households___2026_04_21_model_ready.csv,wsa_name,region,8,0.05555555555555555,False
+Outputs/ModellingData/Potable_Systems__2026_04_21_model_ready.csv,wsa_name,region,9,0.0625,False
+Outputs/ModellingData/Protests_Identified_by_Municipal_IQ__2026_04_21_model_ready.csv,wsa_name,region,9,0.0625,False
+Outputs/ModellingData/Total_Households__2026_04_21_model_ready.csv,wsa_name,region,9,0.0625,False
+Outputs/ModellingData/Total_Population__2026_04_21_model_ready.csv,wsa_name,region,9,0.0625,False
+Outputs/ModellingData/Vulnerability_Score_Per_leg__2026_04_21_model_ready.csv,wsa_name,region,9,0.0625,False
+Outputs/ModellingData/Water_demand_growth__2026_04_21_model_ready.csv,wsa_name,region,9,0.0625,False

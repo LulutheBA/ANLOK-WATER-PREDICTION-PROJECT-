@@ -1,0 +1,9 @@
+{
+  "true_event_level_outage_target_available": false,
+  "outage_like_columns_found": [],
+  "target_dataset": "Outputs/FeatureEngineering/NIWIS_Water_Supply_Reliability_-_population_16-Jul-2026__engineered.csv",
+  "target_column": "population_reliable_supply_1",
+  "problem_type": "regression",
+  "proxy_definition": "outage-risk proxy = 100 - predicted reliable-supply percentage",
+  "scientific_statement": "The model predicts water-service reliability, not verified outage events."
+}
